@@ -1,0 +1,3 @@
+[submodule "interaction-engine"]
+	path = interaction-engine
+	url = git@github.com:nikmart/interaction-engine.git
