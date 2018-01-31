@@ -1,4 +1,4 @@
-# Week 1 1/25/18
+# Week #1 1/25/18
 
 
 ## Assignment #1 (due 1/31/18)
@@ -13,7 +13,7 @@
 ### Great Interactive Devices Assignment
 For inspiration and also for discussion, please spend some time finding 20 candidate interactive devices, and narrow down to one thing that you think deserves the title Great Interactive Device. Please write at least two paragraphs describing _why_ this device is Great; this will help us understand the criteria for Greatness. Also write your 19 runners-up in a list; no need to comment on each unless you want to.
 
-## Lab-Session #1 (due 1/31/18)
+## Lab-Session #1 (due 6/2/18)
 * Familiarize yourself with the [UNIX Commands](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html). This [UNIX cheatsheet](https://ubuntudanmark.dk/filer/fwunixref.pdf) might also help.
 * Bookmark [this GitHub](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices) page as all material will be posted here.
 * Follow this weeks tutorial on the [wiki]().
