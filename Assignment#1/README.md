@@ -2,9 +2,9 @@
 
 
 ## Assignment #1 (due 1/31/18)
-* Set up your GitHub account(in preparation of the lab ).
+* Set up your GitHub account (to prepare for lab).
 * Sign in  to [Slack](https://ddid17-18.slack.com).
-* Create a personal #homework<yourname> channel with you and  @DavidGoedicke and @AndreaPCuadra as the other two listeners.
+* Create a personal #<yourname> channel
 * Post the "Great Interactive Devices Assignment"(see below) to the assignment#1 channel __AND__ your homework channel.
 
 (optional) Read Martelaro's [The Interaction Engine](https://stanford.edu/~nikmart/papers/interactionEngine.pdf).
