@@ -5,7 +5,7 @@
 * Set up your GitHub account(in preparation of the lab ).
 * Sign in  to [Slack](https://ddid17-18.slack.com).
 * Create a #homework-channel with @DavidGoedicke and @AndreaPCuadra as the other two listeners.
-* Post the "Great Interactive Devices Assignment"(see below) to the assignment Channel#1 __AND__ your homework channel.
+* Post the ["Great Interactive Devices Assignment"](#great-interactive-devices-assignment)(see below) to the assignment Channel#1 __AND__ your homework channel.
 
 (optional) Read Martelaro's [The Interaction Engine](https://stanford.edu/~nikmart/papers/interactionEngine.pdf).
 
