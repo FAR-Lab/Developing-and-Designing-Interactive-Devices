@@ -4,8 +4,8 @@
 ## Assignment #1 (due 1/31/18)
 * Set up your GitHub account(in preparation of the lab ).
 * Sign in  to [Slack](https://ddid17-18.slack.com).
-* Create a #homework-channel with @DavidGoedicke and @AndreaPCuadra as the other two listeners.
-* Post the "Great Interactive Devices Assignment"(see below) to the assignment Channel#1 __AND__ your homework channel.
+* Create a personal #homework<yourname> channel with you and  @DavidGoedicke and @AndreaPCuadra as the other two listeners.
+* Post the "Great Interactive Devices Assignment"(see below) to the assignment#1 channel __AND__ your homework channel.
 
 (optional) Read Martelaro's [The Interaction Engine](https://stanford.edu/~nikmart/papers/interactionEngine.pdf).
 
@@ -16,4 +16,4 @@ For inspiration and also for discussion, please spend some time finding 20 candi
 ## Lab-Session #1 (due 1/31/18)
 * Familiarize yourself with the [UNIX Commands](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html). This [UNIX cheatsheet](https://ubuntudanmark.dk/filer/fwunixref.pdf) might also help.
 * Bookmark [this GitHub](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices) page as all material will be posted here.
-* Follow this weeks tutorial on the [wiki]().
+* Follow this Lab Instruction on the [wiki](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-Session%231).
