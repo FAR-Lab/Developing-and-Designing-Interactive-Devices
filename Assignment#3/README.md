@@ -1,5 +1,4 @@
-# Assignment #3
-## Due 2/15
+# Assignment #3 (Due 2/15)
 ----------------------------------
 Reading (for people without EE background): Scherz, Ch 2.1-2.17, Ch. 3.1-3.5
 
