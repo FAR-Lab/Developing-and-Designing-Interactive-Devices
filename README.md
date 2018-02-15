@@ -6,9 +6,7 @@ The main repository for a class given by Wendy Ju in the Spring term of 2018 at 
 
 
 ## Assignments
-1. [Assignment #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/tree/master/Assignment%231)
-2. [Assignment #2](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/tree/master/Assignment%232)
-3. [Assignment #3](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/tree/master/Assignment%233)
+Assignments are posted as channels on the class Slack (e.g. #assignment1, #assignment2, #assignment3) on Tuesdays.
 
 ## Labs
 
