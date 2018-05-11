@@ -8,7 +8,7 @@ The main repository for a class given by Wendy Ju in the Fall term of 2018 at Co
 [Slides here](https://www.dropbox.com/sh/h0vb8novi8c6old/AAAVK_lysnQxWR5P8XC-sC9Ya?dl=0)
 These will be taken down at the end of the semester.
 
-## Assignments
+## Lab Prep Assignments
 Assignments are posted as channels on the class Slack (e.g. #assignment1, #assignment2, #assignment3) on Tuesdays.
 
 ## Labs
@@ -17,3 +17,20 @@ Assignments are posted as channels on the class Slack (e.g. #assignment1, #assig
 2. [Lab #2](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%232)
 3. [Lab #3](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab3-Laser-Cutting-and-3d-Printing)
 4. [Lab #4](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%234)
+
+
+## Labs
+
+1. [Lab #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%231)
+2. [Lab #2](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%232)
+3. [Lab #3](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab3-Laser-Cutting-and-3d-Printing)
+4. [Lab #4](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%234)
+
+## Student Submissions
+
+1. Student 1 
+1. [Name + LastName + NetID] (GOOGLE.COM)
+1.	[	Andrea	Cuadra	apc75	](	www.yahoo.com	)
+1.	[	Andrea	Cuadra	apc76	](	www.yahoo.com	)
+1.	[	Andrea	Cuadra	apc77	](	www.yahoo.com	)
+1.	[	Andrea	Cuadra	apc78	](	www.yahoo.com	)
