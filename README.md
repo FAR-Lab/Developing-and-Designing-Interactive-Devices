@@ -4,10 +4,6 @@ The main repository for a class given by Wendy Ju in the Spring term of 2018 at 
 ## Syllabus
 [Syllabus](https://www.dropbox.com/s/20galuamifg2iky/DIDD_Syllabus.pdf?dl=0) (updated 9Mar2018)
 
-## Lectures
-[Slides here](https://www.dropbox.com/sh/h0vb8novi8c6old/AAAVK_lysnQxWR5P8XC-sC9Ya?dl=0)
-These will be taken down at the end of the semester.
-
 ## Assignments
 Assignments are posted as channels on the class Slack (e.g. #assignment1, #assignment2, #assignment3) on Tuesdays.
 
