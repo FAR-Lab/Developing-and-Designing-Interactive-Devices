@@ -5,11 +5,11 @@ The main repository for a class given by Wendy Ju in the Fall term of 2018 at Co
 [Syllabus](https://www.dropbox.com/s/20galuamifg2iky/DIDD_Syllabus.pdf?dl=0) (updated 9Mar2018)
 
 ## Lectures
-[Slides here]()
-These will be taken down at the end of the semester.
+Lecture slides will be posted here on Tuesdays, after class.
+
 
 ## Lab Prep 
-Assignments are posted as channels on the class Slack (e.g. #assignment1, #assignment2, #assignment3) on Tuesdays.
+Assignments will be posted here on Tuesdays.
 
 ## Labs
 
@@ -21,7 +21,7 @@ Assignments are posted as channels on the class Slack (e.g. #assignment1, #assig
 ## Student Submissions
 Fill out this [spreadsheet](https://docs.google.com/spreadsheets/d/1jj1k6TqVeYlY_HoPcCLTnNt2-maIJkDGyz53OstApOA/edit#gid=0) with your information. See Daniel Kim's site below as an example for the portal link, and for how to organize your assignments. 
 
-The teaching team will update this Github page with your information and use it to review your assignments, which will be publicly available. When submitting your assignments in the future, add hyperlinks (only) once they're ready to be reviewed, and send us a slack message to let us know. Late assignments will be penalized by one letter grade per day late.
+The teaching team will update this Github page with your information and use it to review your assignments, which will be publicly available. When submitting your assignments, add hyperlinks (only) once they're ready to be reviewed, and send us a direct message to let us know. Late assignments will be penalized by one letter grade per day late.
 
 1.	[	Daniel	Kim	dk768	](	https://github.com/dkijc/interactive	)
 1.	[	Student 	1	st111	](	https://github.com	)
