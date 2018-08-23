@@ -5,7 +5,7 @@ The main repository for a class given by Wendy Ju in the Fall term of 2018 at Co
 [Syllabus](https://www.dropbox.com/s/20galuamifg2iky/DIDD_Syllabus.pdf?dl=0) (updated 9Mar2018)
 
 ## Lectures
-[Slides here](https://www.dropbox.com/sh/h0vb8novi8c6old/AAAVK_lysnQxWR5P8XC-sC9Ya?dl=0)
+[Slides here]()
 These will be taken down at the end of the semester.
 
 ## Lab Prep 
@@ -14,9 +14,9 @@ Assignments are posted as channels on the class Slack (e.g. #assignment1, #assig
 ## Labs
 
 1. [Lab #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%231)
-2. [Lab #2](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%232)
-3. [Lab #3](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab3-Laser-Cutting-and-3d-Printing)
-4. [Lab #4](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%234)
+%2. [Lab #2](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%232)
+%3. [Lab #3](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab3-Laser-Cutting-and-3d-Printing)
+%4. [Lab #4](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%234)
 
 ## Student Submissions
 Fill out this [spreadsheet](https://docs.google.com/spreadsheets/d/1jj1k6TqVeYlY_HoPcCLTnNt2-maIJkDGyz53OstApOA/edit#gid=0) with your information. See Daniel Kim's site below as an example for the portal link, and for how to organize your assignments. 
