@@ -12,7 +12,7 @@ Lecture slides will be posted here on Tuesdays, before class.
 ## Lab Prep 
 Assignments will be posted here on Tuesdays.
 
-1. [Prep 01](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-01) 28Aug2018
+[01 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-01) 28Aug2018
 
 ## Labs
 Labs will be posted here on Thursdays.
