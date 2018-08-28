@@ -7,7 +7,7 @@ The main repository for a class given by Wendy Ju in the Fall term of 2018 at Co
 ## Lectures
 Lecture slides will be posted here on Tuesdays, before class.
 
-[01 Circuits & Schematics](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/01%20Circuits%20%26%20Schematics.pdf) 28Aug2018
+[01 Circuits & Schematics](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Slides/01%20Circuits%20%26%20Schematics.pdf) 28Aug2018
 
 ## Lab Prep 
 Assignments will be posted here on Tuesdays.
