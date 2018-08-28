@@ -14,9 +14,9 @@ Assignments will be posted here on Tuesdays.
 ## Labs
 
 1. [Lab #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%231)
-%2. [Lab #2](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%232)
+<!--- 2. [Lab #2](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%232)
 %3. [Lab #3](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab3-Laser-Cutting-and-3d-Printing)
-%4. [Lab #4](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%234)
+%4. [Lab #4](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%234)-->
 
 ## Student Submissions
 Fill out this [spreadsheet](https://docs.google.com/spreadsheets/d/1jj1k6TqVeYlY_HoPcCLTnNt2-maIJkDGyz53OstApOA/edit#gid=0) with your information. See Daniel Kim's site below as an example for the portal link, and for how to organize your assignments. 
