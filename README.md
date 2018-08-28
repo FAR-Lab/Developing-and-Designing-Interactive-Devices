@@ -25,7 +25,7 @@ Labs will be posted here on Thursdays.
 ## Student Submissions
 Fill out this [spreadsheet](https://docs.google.com/spreadsheets/d/1jj1k6TqVeYlY_HoPcCLTnNt2-maIJkDGyz53OstApOA/edit#gid=0) with your information. See Daniel Kim's site below as an example for the portal link, and for how to organize your assignments. 
 
-The teaching team will update this Github page with your information and use it to review your assignments, which will be publicly available. When submitting your assignments, add hyperlinks (only) once they're ready to be reviewed, and send us a direct message to let us know. Late assignments will be penalized by one letter grade per day late.
+The teaching team will update this Github page with your information and use it to review your assignments, which will be publicly available. When submitting your assignments, add hyperlinks (only) once they're ready to be reviewed. Late assignments will be penalized by one letter grade per day late.
 
 1.	[	Daniel	Kim	dk768	](	https://github.com/dkijc/interactive	)
 <!---1.	[	Student 	1	st111	](	https://github.com	)
