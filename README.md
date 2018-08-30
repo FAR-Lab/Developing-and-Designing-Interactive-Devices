@@ -29,6 +29,7 @@ Fill out this [spreadsheet](https://docs.google.com/spreadsheets/d/1jj1k6TqVeYlY
 The teaching team will update this Github page with your information and use it to review your assignments, which will be publicly available. When submitting your assignments, add hyperlinks (only) once they're ready to be reviewed. Late assignments will be penalized by one letter grade per day late.
 
 1.	[	Daniel	Kim	dk768	](	https://github.com/dkijc/interactive	)
+2.	[	Rongxin_Zhang	rz345	](	https://github.com/RongxinZhang/interactive-device	)
 <!---1.	[	Student 	1	st111	](	https://github.com	)
 1.	[	Student 	2	st222	](	https://github.com	)
 1.	[	Student 	3	st333	](	https://github.com	)-->
