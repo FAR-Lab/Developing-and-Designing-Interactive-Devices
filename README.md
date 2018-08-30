@@ -37,5 +37,5 @@ The teaching team will update this Github page with your information and use it 
 ## Student Submissions
 The next office hours will be on Friday August 31st from 2:00 PM- 3:30 PM* at the Maker Lab. Andrea will usually hold office hours at the Maker Lab on Mondays from 3:00 PM - 4:30 PM. 
 
-*This is an exeption because Monday is a holiday.
+*This is an exception because Monday is a holiday.
 
