@@ -35,10 +35,10 @@ The teaching team will update this Github page with your information and use it 
 1.	[	Student 	3	st333	](	https://github.com	)-->
 
 ## Office Hours
-Wendy
+###### Wendy
 The next office hours will be on Thursday, August 30th from 5:00 PM - 6:00 PM* at Bloomberg 254. Wendy will usually hold office hours on Mondays from 3:00 PM - 5:00 PM in Wendy's huddle, Bloomberg 254. 
 
-Andrea
+###### Andrea
 The next office hours will be on Friday, August 31st from 2:00 PM - 4:00 PM* at the Maker Lab in Tata. Andrea will usually hold office hours at the Maker Lab in Tata on Mondays from 1:00 PM - 3:00 PM. 
 
 *This is an exception because Monday is a holiday.
