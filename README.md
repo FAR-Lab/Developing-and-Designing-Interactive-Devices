@@ -33,3 +33,9 @@ The teaching team will update this Github page with your information and use it 
 <!---1.	[	Student 	1	st111	](	https://github.com	)
 1.	[	Student 	2	st222	](	https://github.com	)
 1.	[	Student 	3	st333	](	https://github.com	)-->
+
+## Student Submissions
+The next office hours will be on Friday August 31st from 2:00 - 3:30 PM at the Maker Lab. 
+*This is an exeption because Monday is a holiday
+
+Andrea will usually hold office hours at the Maker Lab on Mondays from 3:00 PM - 4:30 PM. 
