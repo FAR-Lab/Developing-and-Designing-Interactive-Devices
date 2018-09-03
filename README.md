@@ -13,7 +13,7 @@ Lecture slides will be posted here on Tuesdays, before class.
 Assignments will be posted here on Tuesdays.
 
 [01 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-01) 28Aug2018
-<!--[02 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-02) 04Sep2018-->
+[02 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-02) 04Sep2018
 <!--03 Prep 11Sep2018
 04 Prep 18Sep2018
 05 Prep 25Sep2018
@@ -24,15 +24,15 @@ Assignments will be posted here on Tuesdays.
 Labs will be posted here on Thursdays.
 
 [01 Blink](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-01)
-<!---1. [Lab #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%231)
-02 Digital Timer
+<!---1. [Lab #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%231)-->
+[02 Digital Timer](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-02)
 03 Data Logger
 04 Tangible Displays
 05 Useless Box
 06 Chatbot
 07 Video Doorbell
 
-%3. [Lab #3](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab3-Laser-Cutting-and-3d-Printing)
+<!---%3. [Lab #3](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab3-Laser-Cutting-and-3d-Printing)
 %4. [Lab #4](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%234)-->
 
 ## Student Submissions
