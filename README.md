@@ -30,7 +30,7 @@ Labs will be posted here on Thursdays.
 
 03 Data Logger
 
-04 Tangible Displays
+04 Paper Puppets
 
 05 Useless Box
 
