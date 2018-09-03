@@ -27,10 +27,15 @@ Labs will be posted here on Thursdays.
 [01 Blink](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-01)
 <!---1. [Lab #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%231)-->
 [02 Digital Timer](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-02)
+
 03 Data Logger
+
 04 Tangible Displays
+
 05 Useless Box
+
 06 Chatbot
+
 07 Video Doorbell
 
 <!---%3. [Lab #3](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab3-Laser-Cutting-and-3d-Printing)
