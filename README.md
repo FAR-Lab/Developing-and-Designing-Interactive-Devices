@@ -8,6 +8,7 @@ The main repository for a class given by Wendy Ju in the Fall term of 2018 at Co
 Lecture slides will be posted here on Tuesdays, before class.
 
 [01 Circuits & Schematics](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Slides/01%20Circuits%20%26%20Schematics.pdf) 28Aug2018
+
 [02 Interaction Design & Firmware Programming](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Slides/02%20Interaction%20Design%20Firmware%20Programming.key.pdf) 4Sep2018
 
 ## Lab Prep 
