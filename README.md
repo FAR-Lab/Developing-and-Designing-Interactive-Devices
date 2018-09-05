@@ -58,6 +58,7 @@ The teaching team will update this Github page with your information and use it 
 1.	[	Yiyuan	Feng	yf323	](	https://github.com/Yiyuan7/Interactive-Lab-Hub	)
 1.	[	Tal	Genkin	tg347	](	https://github.com/TalGenkin/Interactive--Device-Design	)
 1.	[	Manuel (Lalo)	Gonzalez	mg2325	](	https://github.com/lalogf/IDD-Fa18-Lab1	)
+1.	[	Wen	Guo	wg264	](	https://github.com/gw3218/Interactive-Lab-Hub	)
 1.	[	Benjamin	Hwang	bwh57	](	https://github.com/bhwan1118/Interactive-Lab-Hub	)
 1.	[	Hemanth	Kondapalli	hk924	](	https://github.com/hemanthk92/Interactive-Lab-Hub	)
 1.	[	Chris	Kruger	crk78	](	https://github.com/ckruger0/Interactive-Lab-Hub	)
