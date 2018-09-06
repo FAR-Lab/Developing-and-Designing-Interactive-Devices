@@ -17,7 +17,7 @@ Assignments will be posted here on Tuesdays.
 [01 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-01) 28Aug2018
 
 [02 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-02) 04Sep2018
-  * [Switch State demonstration of coding with modules as states](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/docs/switchState.zip)
+  * Arduino code demonstrating how to structure modules as states: [Switch State ](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/docs/switchState.zip)
 <!--03 Prep 11Sep2018
 04 Prep 18Sep2018
 05 Prep 25Sep2018
