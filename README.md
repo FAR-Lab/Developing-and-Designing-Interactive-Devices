@@ -11,6 +11,8 @@ Lecture slides will be posted here on Tuesdays, before class.
 
 [02 Interaction Design & Firmware Programming](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Slides/02%20Interaction%20Design%20Firmware%20Programming.key.pdf) 4Sep2018
 
+[03 Displays & Actuators](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Slides/03DisplaysActuators.pdf) 11Sep2018
+
 ## Lab Prep 
 Assignments will be posted here on Tuesdays.
 
