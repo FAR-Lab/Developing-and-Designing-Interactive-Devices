@@ -83,7 +83,7 @@ The teaching team will update this Github page with your information and use it 
 Wendy will hold office hours on Mondays from 3:00 PM - 5:00 PM in her huddle, Bloomberg 254. 
 
 ###### Andrea
-Andrea will hold office hours at the Maker Lab in Tata on Fridays from 1:00 PM - 3:00 PM. 
+Andrea will hold office hours at the Maker Lab in Tata on Fridays from 1:30 PM - 3:30 PM. 
 
 ###### Niti
 The MakerLAB office hours are Tuesday, Wednesday and Thursdays noon - 1:00 PM at the Maker Lab in Tata. 
