@@ -83,7 +83,7 @@ The teaching team will update this Github page with your information and use it 
 Mondays from 3:00 PM - 5:00 PM in her huddle, Bloomberg 254. 
 
 ###### Andrea
-Fridays from 1:30 PM - 3:30 PM at the TIC Maker Lab. 
+Mondays from 1:00 PM - 3:00 PM at the TIC Maker Lab. 
 
 ###### Niti
 Tuesdays, Wednesdays and Thursdays 12:00 PM - 1:00 PM at the TIC Maker Lab. 
