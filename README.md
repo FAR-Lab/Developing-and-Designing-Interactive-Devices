@@ -22,6 +22,7 @@ Assignments will be posted here on Tuesdays.
   * Arduino code demonstrating how to structure modules as states: [Switch State ](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/docs/switchState.zip)
 
 [03 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-03) 11Sep2018
+
 [04 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-04) 18Sep2018
 <!--05 Prep 25Sep2018
 06 Prep 02Oct2018 (Not due until 11Oct2018)
