@@ -51,9 +51,9 @@ Labs will be posted here on Thursdays.
 %4. [Lab #4](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%234)-->
 
 ## Student Submissions
-Fill out this [spreadsheet](https://docs.google.com/spreadsheets/d/1jj1k6TqVeYlY_HoPcCLTnNt2-maIJkDGyz53OstApOA/edit#gid=0) with your information. See Daniel Kim's site below as an example for the link, and for how to organize your assignments. Fork [this repository](https://github.com/FAR-Lab/Interactive-Lab-Hub) for your class Hub, and link to that below.
+Fork [this repository](https://github.com/FAR-Lab/Interactive-Lab-Hub) for your class Hub, and link to that below.
 
-The teaching team will update this Github page with your information and use it to review your assignments, which will be publicly available. When submitting your assignments, add hyperlinks (only) once they're ready to be reviewed. Late assignments will be penalized by one letter grade per day late.
+When submitting your assignments, add hyperlinks (only) once they're ready to be reviewed. Late assignments will be penalized by one letter grade per day late.
 
 1.	[	Natalie	Abrams	nba28	](	https://github.com/nabrams/interactive	)
 1.	[	Karim	Arem	ka295	](	https://github.com/wario123/Interactive-Devices	)
