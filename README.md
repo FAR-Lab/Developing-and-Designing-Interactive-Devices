@@ -15,6 +15,8 @@ Lecture slides will be posted here on Tuesdays, before class.
 
 [04 Using Integrated Circuits](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Slides/04UsingICs.pdf) 18Sep2018
 
+[05 Physical Prototyping](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Slides/04UsingICs.pdf) 24Sep2018
+
 ## Lab Prep 
 Assignments will be posted here on Tuesdays.
 
