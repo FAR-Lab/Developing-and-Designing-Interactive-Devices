@@ -17,6 +17,8 @@ Lecture slides will be posted here on Tuesdays, before class.
 
 [05 Physical Prototyping](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Slides/05%20Physical%20Prototyping.pdf) 25Sep2018
 
+[06 Single Board Computers](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Slides/06SingleBoardComputers.key.pdf) 27Sep2018
+
 ## Lab Prep 
 Assignments will be posted here on Tuesdays.
 
