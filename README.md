@@ -48,7 +48,7 @@ Labs will be posted here on Thursdays.
 
 [04 Paper Puppets](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-04)
 
-05 Useless Box
+[05 Useless Box](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-05)
 
 06 Chatbot
 
