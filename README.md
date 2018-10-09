@@ -50,7 +50,7 @@ Labs will be posted here on Thursdays.
 
 [05 Useless Box](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-05)
 
-06 Chatbot
+[06 Chatbot](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-06)
 
 07 Video Doorbell
 
