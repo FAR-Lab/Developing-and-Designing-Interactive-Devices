@@ -31,11 +31,10 @@ Assignments will be posted here on Tuesdays.
 
 [04 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-04) 18Sep2018
 
-[05 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-05) 26Sep2018
+[05 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-05) 25Sep2018
 
-<!--05 Prep 25Sep2018
-06 Prep 02Oct2018 (Not due until 11Oct2018)
-07 Prep 16Oct2018 -->
+[06 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-06) 9Oct2018
+<!--07 Prep 16Oct2018 -->
 
 ## Labs
 Labs will be posted here on Thursdays.
