@@ -83,8 +83,8 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 1.	[	Manuel	Viejo	mv456	](	https://github.com/mviejo33/Interactive-Lab-Hub	)
 1.	[	Bradley	Wise	bmw246	](	https://github.com/bmwise14/Interactive-Lab-Hub	)
 1.	[	Jamie	Yu	jky32	](	https://github.com/jamiekimyu/Interactive-Lab-Hub	)
-1.	[	Rongxin	Zhang	rz345	](	https://github.com/RongxinZhang/interactive-device	)
 1.	[	Hanyu 	Zhang	hz464	](	https://github.com/PGhzhang/Interactive-Lab-Hub	)
+1.	[	Rongxin	Zhang	rz345	](	https://github.com/RongxinZhang/interactive-device	)
 
 
 ## Office Hours
