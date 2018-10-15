@@ -77,14 +77,15 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 1.	[	Chris	Kruger	crk78	](	https://github.com/ckruger0/Interactive-Lab-Hub	)
 1.	[	Bennett	Norman	bdn29	](	https://github.com/bendnorman/Developing-and-Designing-Interactive-Devices-Hub	)
 1.	[	Hongyun(Kevin)	Oh	ho247	](	https://github.com/contactkoh/interactive/	)
-1.	[	Brian	Pfaff	bwp28	](	https://github.com/bripfaff/Interactive-Devices	)<!--- 
-1.	[	Christophe	Rimann	cjr268	](	https://github.com/infobiac/Interactive-Lab-Hub	) -->
+1.	[	Brian	Pfaff	bwp28	](	https://github.com/bripfaff/Interactive-Devices	)
 1.	[	Oluseyi	Sonaiya	obs24	](	https://github.com/oluseyi/CT-InteractiveDevices	)
 1.	[	Manuel	Viejo	mv456	](	https://github.com/mviejo33/Interactive-Lab-Hub	)
 1.	[	Bradley	Wise	bmw246	](	https://github.com/bmwise14/Interactive-Lab-Hub	)
 1.	[	Jamie	Yu	jky32	](	https://github.com/jamiekimyu/Interactive-Lab-Hub	)
 1.	[	Hanyu 	Zhang	hz464	](	https://github.com/PGhzhang/Interactive-Lab-Hub	)
 1.	[	Rongxin	Zhang	rz345	](	https://github.com/RongxinZhang/interactive-device	)
+
+<!--- 1.	[	Christophe	Rimann	cjr268	](	https://github.com/infobiac/Interactive-Lab-Hub	) -->
 
 
 ## Office Hours
