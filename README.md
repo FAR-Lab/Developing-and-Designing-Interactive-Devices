@@ -78,7 +78,7 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 1.	[	Bennett	Norman	bdn29	](	https://github.com/bendnorman/Developing-and-Designing-Interactive-Devices-Hub	)
 1.	[	Hongyun(Kevin)	Oh	ho247	](	https://github.com/contactkoh/interactive/	)
 1.	[	Brian	Pfaff	bwp28	](	https://github.com/bripfaff/Interactive-Devices	)
-1.	[	Christophe	Rimann	cjr268	](	https://github.com/infobiac/Interactive-Lab-Hub	)
+<!--- 1.	[	Christophe	Rimann	cjr268	](	https://github.com/infobiac/Interactive-Lab-Hub	) -->
 1.	[	Oluseyi	Sonaiya	obs24	](	https://github.com/oluseyi/CT-InteractiveDevices	)
 1.	[	Manuel	Viejo	mv456	](	https://github.com/mviejo33/Interactive-Lab-Hub	)
 1.	[	Bradley	Wise	bmw246	](	https://github.com/bmwise14/Interactive-Lab-Hub	)
