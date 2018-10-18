@@ -23,7 +23,7 @@ Lecture slides will be posted here on Tuesdays, before class.
 
 [06 Single Board Computers](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Slides/06SingleBoardComputers.key.pdf) 27Sep2018
 
-[07 Networks, Communication, and Distributed Applications](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Slides/07Networks-Communication-DistributedApps.pdf)
+[09 Networks, Communication, and Distributed Applications](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Slides/07Networks-Communication-DistributedApps.pdf) 16Oct2018
 
 ## Lab Prep 
 Assignments will be posted here on Tuesdays.
