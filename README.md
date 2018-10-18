@@ -4,6 +4,10 @@ The main repository for a class given by Wendy Ju in the Fall term of 2018 at Co
 ## Syllabus
 [Syllabus](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Syllabus_Fall18.pdf) (updated 28Aug2018)
 
+## Final Project
+
+[Final Project](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Final-Project)
+
 ## Lectures
 Lecture slides will be posted here on Tuesdays, before class.
 
