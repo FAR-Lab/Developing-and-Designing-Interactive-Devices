@@ -52,7 +52,8 @@ Labs will be posted here on Thursdays.
 
 [06 Chatbot](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-06)
 
-07 Video Doorbell
+[07 Video Doorbell](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-07)
+
 
 <!---%3. [Lab #3](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab3-Laser-Cutting-and-3d-Printing)
 %4. [Lab #4](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%234)-->
