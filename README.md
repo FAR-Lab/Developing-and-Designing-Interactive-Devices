@@ -8,6 +8,8 @@ The main repository for a class given by Wendy Ju in the Fall term of 2018 at Co
 
 [Final Project](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Final-Project)
 
+[Project HW #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Final-Project,-HW-%231)
+
 ## Lectures
 Lecture slides will be posted here on Tuesdays, before class.
 
