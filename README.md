@@ -27,6 +27,9 @@ Lecture slides will be posted here on Tuesdays, before class.
 
 [07 Networks, Communication, and Distributed Applications](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Slides/07Networks-Communication-DistributedApps.pdf) 16Oct2018
 
+[08 Prototype Refinement](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Prototype-Refinement-ilovepdf-compressed.pdf) 15Nov2018
+
+
 ## Lab Prep 
 Assignments will be posted here on Tuesdays.
 
