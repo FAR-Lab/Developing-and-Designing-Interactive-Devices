@@ -106,8 +106,7 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 Mondays from 3:00 PM - 5:00 PM in her huddle, Bloomberg 254. 
 
 ###### Andrea
-Mondays from 1:00 PM - 3:00 PM at the TIC Maker Lab. 
---Andrea will host OH on Wednesday Oct. 10 from 1:30 PM - 3:30 PM to make up for Monday, Oct. 8, being off.
+By appointment.
 
 ###### Niti
 Tuesdays, Wednesdays and Thursdays 12:00 PM - 1:00 PM at the TIC Maker Lab. 
