@@ -106,8 +106,8 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 Mondays from 3:00 PM - 5:00 PM in her huddle, Bloomberg 254. 
 
 ###### Andrea
-By appointment.
+Monday, Dec 3: 1:00 PM - 3:00 PM.
+Otherwise, by appointment a couple of days in advance.
 
 ###### Niti
 Tuesdays, Wednesdays and Thursdays 12:00 PM - 1:00 PM at the TIC Maker Lab. 
-
