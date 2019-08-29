@@ -63,13 +63,16 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 
 ## Office Hours
 ###### Wendy
-Mondays from 3:00 PM - 5:00 PM in her huddle, Bloomberg 254. 
+Mondays from 3:00 PM - 5:00 PM in Bloomberg 254 or the MakerLAB. 
 
 ###### Natalie
+
+Mondays from 3:00 PM - 5:00 PM in the MakerLAB
 
 ###### Leif
 
 Thursdays, 12:20 - 2:20, as well as by appointment, MakerLAB
 
-###### Niti
+###### David
 
+Available via Discord
