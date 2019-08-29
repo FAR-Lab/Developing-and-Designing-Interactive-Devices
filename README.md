@@ -62,6 +62,9 @@ Mondays from 3:00 PM - 5:00 PM in her huddle, Bloomberg 254.
 
 ###### Natalie
 
+###### Leif
+
+Thursdays, 12:20 - 2:20, as well as by appointment, MakerLAB
 
 ###### Niti
 
