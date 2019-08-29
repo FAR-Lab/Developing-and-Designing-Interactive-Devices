@@ -2,28 +2,28 @@
 The main repository for a class given by Wendy Ju in the Fall term of 2019 at Cornell Tech.
 
 ## Syllabus
-[Syllabus](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Syllabus_Fall18.pdf) (updated 28Aug2018)
+[Syllabus](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Syllabus_Fall18.pdf) 
 
 ## Final Project
 
 ## Lectures
 Lecture slides will be posted here on Tuesdays, before class.
 
-[01 Circuits & Schematics]
+01 Circuits & Schematics
 
-[02 Interaction Design & Firmware Programming]
+02 Interaction Design & Firmware Programming
 
-[03 Displays & Actuators]
+03 Displays & Actuators
 
-[04 Using Integrated Circuits]
+04 Using Integrated Circuits
 
-[05 Physical Prototyping]
+05 Physical Prototyping
 
-[06 Single Board Computers]
+06 Single Board Computers
 
-[07 Networks, Communication, and Distributed Applications]
+07 Networks, Communication, and Distributed Applications
 
-[08 Prototype Refinement]
+08 Prototype Refinement
 
 
 ## Lab Prep 
@@ -35,19 +35,19 @@ Assignments will be posted here on Tuesdays.
 ## Labs
 Labs will be posted here on Thursdays.
 
-[01 Blink](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-01)
-<!---1. [Lab #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-%231)-->
-[02 Digital Timer]
+[Lab #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-01) Light It Up! Getting started with electronics and Arduino prototyping.
 
-[03 Data Logger]
+Lab #2 Digital Timer - Incorporating light, sound and character displays
 
-[04 Paper Puppets]
+Lab #3 Data Logger - Sensing, recording and visualizing information
 
-[05 Useless Box]
+Lab #4 Paper Displays - Using servos, DC motors and simple mechanisms
 
-[06 Chatbot]
+Lab #5 Jack in a Box - Integrating electronics into product
 
-[07 Video Doorbell]
+Lab #6 Chatbot - Embedding web interfaces into product
+
+Lab #7 Video Doorbell - Cameras and remote real-time interaction
 
 ## Student Submissions
 Fork [this repository](https://github.com/FAR-Lab/Interactive-Lab-Hub) for your class Hub, and link to that below.
