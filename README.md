@@ -4,7 +4,10 @@ The main repository for a class given by Wendy Ju in the Fall term of 2019 at Co
 ## Syllabus
 [Syllabus](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Syllabus_Fall18.pdf) 
 
-## Final Project
+## Class Discussion
+Please use [this invite link](https://discord.gg/ggA9uU) to join the class Discord.
+
+
 
 ## Lectures
 Lecture slides will be posted here on Tuesdays, before class.
@@ -55,6 +58,8 @@ Fork [this repository](https://github.com/FAR-Lab/Interactive-Lab-Hub) for your 
 When submitting your assignments, add hyperlinks (only) once they're ready to be reviewed. Late assignments will be penalized by one letter grade per day late.
 
 
+
+## Final Project
 
 ## Office Hours
 ###### Wendy
