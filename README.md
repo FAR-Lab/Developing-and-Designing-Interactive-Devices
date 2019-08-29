@@ -12,7 +12,7 @@ Please use [this invite link](https://discord.gg/ggA9uU) to join the class Disco
 ## Lectures
 Lecture slides will be posted here on Tuesdays, before class.
 
-01 Circuits & Schematics
+[01 Circuits & Schematics](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/01%20Circuits%20%26%20Schematics.pdf)
 
 02 Interaction Design & Firmware Programming
 
