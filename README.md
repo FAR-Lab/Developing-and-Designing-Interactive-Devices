@@ -12,7 +12,7 @@ Please use [this invite link](https://discord.gg/Je5Fdaf) to join the class Disc
 ## Lectures
 Lecture slides will be posted here on Tuesdays, before class.
 
-[01 Circuits & Microcontrollers]()
+[01 Circuits & Microcontrollers](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/01%20Circuits%20%26%20Microcontrollers.pdf)
 
 02 Interaction Design & Firmware Programming
 
