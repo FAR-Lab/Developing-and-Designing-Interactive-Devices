@@ -5,7 +5,7 @@ The main repository for a class given by Wendy Ju in the Fall term of 2019 at Co
 [Syllabus](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2018Fall/Syllabus_Fall18.pdf) 
 
 ## Class Discussion
-Please use [this invite link](https://discord.gg/rGfW8n9) to join the class Discord.
+Please use [this invite link](https://discord.gg/Je5Fdaf) to join the class Discord.
 
 
 
