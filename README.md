@@ -58,6 +58,7 @@ Fork [this repository](https://github.com/FAR-Lab/Interactive-Lab-Hub) for your 
 When submitting your assignments, add hyperlinks (only) once they're ready to be reviewed. Late assignments will be penalized by one letter grade per day late.
 
 1. [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
+2. [Alan Babushkin (azb6)](https://github.com/ababushkin6/Interactive-Lab-Hub)
 
 
 ## Final Project
