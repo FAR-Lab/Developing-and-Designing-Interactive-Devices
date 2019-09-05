@@ -79,6 +79,6 @@ Mondays from 3:00 PM - 5:00 PM in the MakerLAB
 
 Thursdays, 12:20 - 2:20, as well as by appointment, MakerLAB
 
-###### David
+###### DavidBot
 
 Available via Discord
