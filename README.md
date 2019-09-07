@@ -63,9 +63,9 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 2. [Alan Babushkin (azb6)](https://github.com/ababushkin6/Interactive-Lab-Hub)
 3. [Frans Fourie fjf46](https://github.com/Rafajel29/Interactive-Lab-Hub)
 4. [Konstantinos Karras Kallidromitis kk984](https://github.com/Konstantinos-KK/Interactive-Lab-Hub)
-5. [Eva Pilar Esteban Velasco](https://github.com/evaesteban/Interactive-Lab-Hub)
-6. [Lois Lee ll556](https://github.com/lois-lee/Interactive-Lab-Hub)
-
+5. [Amanda Trang at669](https://github.com/at669/Interactive-Lab-Hub)
+6. [Eva Pilar Esteban Velasco](https://github.com/evaesteban/Interactive-Lab-Hub)
+7. [Lois Lee ll556](https://github.com/lois-lee/Interactive-Lab-Hub)
 
 
 ## Final Project
