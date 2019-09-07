@@ -64,6 +64,7 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 3. [Frans Fourie fjf46](https://github.com/Rafajel29/Interactive-Lab-Hub)
 4. [Konstantinos Karras Kallidromitis kk984](https://github.com/Konstantinos-KK/Interactive-Lab-Hub)
 5. [Eva Pilar Esteban Velasco](https://github.com/evaesteban/Interactive-Lab-Hub)
+6. [Lois Lee ll556](https://github.com/lois-lee/Interactive-Lab-Hub)
 
 
 
