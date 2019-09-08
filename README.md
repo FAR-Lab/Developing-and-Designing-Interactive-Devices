@@ -66,6 +66,7 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 5. [Amanda Trang at669](https://github.com/at669/Interactive-Lab-Hub)
 6. [Eva Pilar Esteban Velasco](https://github.com/evaesteban/Interactive-Lab-Hub)
 7. [Lois Lee ll556](https://github.com/lois-lee/Interactive-Lab-Hub)
+8. [Zachary Gittelman zhg5](https://github.com/zachgitt/Interactive-Lab-Hub)
 
 
 ## Final Project
