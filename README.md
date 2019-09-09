@@ -68,7 +68,15 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 7. [Lois Lee ll556](https://github.com/lois-lee/Interactive-Lab-Hub)
 8. [Zachary Gittelman zhg5](https://github.com/zachgitt/Interactive-Lab-Hub)
 9. [Johnway Yih jy795](https://github.com/JwayYih/Interactive-Lab-Hub)
-10. [Zhenwei Zhang zz654](https://github.com/ZhenweiZhang1995/Interactive-Lab-Hub)
+10. [Ananya Paul ap2273](https://github.com/manification10/Interactive-Lab-Hub)
+11. [Alexander Popeil amp453](https://github.com/popeil97/Interactive-Lab-Hub)
+12. [Michael Chan mkc233](https://github.com/mkc233/Interactive-Lab-Hub)
+13. [Leanna Mulvihill lpm36](https://github.com/LeannaMulv/Interactive-Lab-Hub/blob/master/README_lpm36_LightItUp.pdf)
+14. [Irene Wei zw575](https://github.com/zicongwei/Interactive-Lab-Hub)
+15. [Bo Fang bf366](https://github.com/kmfb21/CS5424-Interactive-Devices-Lab-Hub)
+16. [Dan Witte dw592](https://github.com/drywitte/Interactive-Lab-Hub)
+17. [Zhenwei Zhang zz654](https://github.com/ZhenweiZhang1995/Interactive-Lab-Hub)
+
 
 ## Final Project
 
