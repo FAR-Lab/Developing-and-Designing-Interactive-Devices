@@ -69,6 +69,8 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 8. [Zachary Gittelman zhg5](https://github.com/zachgitt/Interactive-Lab-Hub)
 9. [Johnway Yih jy795](https://github.com/JwayYih/Interactive-Lab-Hub)
 10. [Alexander Popeil amp453](https://github.com/popeil97/Interactive-Lab-Hub)
+11. [Michael Chan mkc233](https://github.com/mkc233/Interactive-Lab-Hub)
+
 
 ## Final Project
 
