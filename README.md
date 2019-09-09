@@ -75,6 +75,7 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 14. [Irene Wei zw575](https://github.com/zicongwei/Interactive-Lab-Hub)
 15. [Bo Fang bf366](https://github.com/kmfb21/CS5424-Interactive-Devices-Lab-Hub)
 16. [Dan Witte dw592](https://github.com/drywitte/Interactive-Lab-Hub)
+17. [Zhenwei Zhang zz654](https://github.com/ZhenweiZhang1995/Interactive-Lab-Hub)
 
 
 ## Final Project
