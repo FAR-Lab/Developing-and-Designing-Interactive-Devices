@@ -68,6 +68,7 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 7. [Lois Lee ll556](https://github.com/lois-lee/Interactive-Lab-Hub)
 8. [Zachary Gittelman zhg5](https://github.com/zachgitt/Interactive-Lab-Hub)
 9. [Johnway Yih jy795](https://github.com/JwayYih/Interactive-Lab-Hub)
+10. [Dan Witte dw592](https://github.com/drywitte/Interactive-Lab-Hub)
 
 ## Final Project
 
