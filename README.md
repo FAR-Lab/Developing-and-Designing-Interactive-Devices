@@ -64,7 +64,7 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 3. [Frans Fourie fjf46](https://github.com/Rafajel29/Interactive-Lab-Hub)
 4. [Konstantinos Karras Kallidromitis kk984](https://github.com/Konstantinos-KK/Interactive-Lab-Hub)
 5. [Amanda Trang at669](https://github.com/at669/Interactive-Lab-Hub)
-6. [Eva Pilar Esteban Velasco](https://github.com/evaesteban/Interactive-Lab-Hub)
+6. [Eva Pilar Esteban Velasco epe26](https://github.com/evaesteban/Interactive-Lab-Hub)
 7. [Lois Lee ll556](https://github.com/lois-lee/Interactive-Lab-Hub)
 8. [Zachary Gittelman zhg5](https://github.com/zachgitt/Interactive-Lab-Hub)
 9. [Johnway Yih jy795](https://github.com/JwayYih/Interactive-Lab-Hub)
@@ -88,10 +88,19 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 26. [Matt Freed mwf58](https://github.com/mattfreed/Interactive-Lab-Hub)
 23. [Samson Schirmer sas695](https://github.com/sas695/Interactive-Lab-Hub)
 27. [Benjamin Yellin bjy26](https://github.com/byellin/Interactive-Lab-Hub)
+28. [Rony Krell rk453](https://github.com/ronykrell/Interactive-Lab-Hub)
+28. [Eduardo Castillo ec833](https://github.com/joAQUINCE/Interactive-Lab-Hub/) 
+30. [Fabio Daiber fpd27](https://github.com/fpdaiber/Interactive-Lab-Hub)
+31. [Bar Kadosh bk497](https://github.com/barkadosh1/Interactive-Lab-Hub)
+99. [Fei Gao fg259](https://github.com/fgao22/Interactive-Lab-Hub)
+28. [Sandra Ebirim se346](https://github.com/sandraebirim/Interactive-Lab-Hub)
+28. [Ben Kadosh bk499](https://github.com/BenKadosh1/Interactive-Lab-Hub)
 30. [Yixue Wang yw2224](https://github.com/yw2224/Interactive-Lab-Hub)
 31. [Yuxin Zhang yz2579](https://github.com/TakoYuxin/Interactive-Lab-Hub)
-
-
+31. [Samuel Choi sgc87](https://github.com/sgc87/Interactive-Lab-Hub)
+31. [Ankit Mahlan am2996](https://github.com/ankit-health-tech/Interactive-Lab-Hub)
+31. [Christine Ku ck753](https://github.com/cku3/Interactive-Lab-Hub)
+2. [Ryan Curtis rec284](https://github.com/rec285/Interactive-Lab-Hub)
 
 
 ## Final Project
