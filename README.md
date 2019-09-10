@@ -88,6 +88,9 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 26. [Matt Freed mwf58](https://github.com/mattfreed/Interactive-Lab-Hub)
 23. [Samson Schirmer sas695](https://github.com/sas695/Interactive-Lab-Hub)
 27. [Benjamin Yellin bjy26](https://github.com/byellin/Interactive-Lab-Hub)
+
+30. [Fabio Daiber fpd27](https://github.com/fpdaiber/Interactive-Lab-Hub)
+
 31. [Bar Kadosh bk497](https://github.com/barkadosh1/Interactive-Lab-Hub)
 99. [Fei Gao fg259](https://github.com/fgao22/Interactive-Lab-Hub)
 28. [Sandra Ebirim se346](https://github.com/sandraebirim/Interactive-Lab-Hub)
@@ -95,6 +98,7 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 30. [Yixue Wang yw2224](https://github.com/yw2224/Interactive-Lab-Hub)
 31. [Christine Ku ck753] (https://github.com/cku3/Interactive-Lab-Hub)
 2. [Ryan Curtis rec284](https://github.com/rec285/Interactive-Lab-Hub)
+
 
 ## Final Project
 
