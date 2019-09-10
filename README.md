@@ -14,9 +14,9 @@ Lecture slides will be posted here on Tuesdays, before class.
 
 [01 Circuits & Microcontrollers](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/01%20Circuits%20%26%20Microcontrollers.pdf)
 
-02 Interaction Design & Firmware Programming
+[02 Interaction Design, Microcontrollers & Communication](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/02%20Interaction%20Design%20MCU%20Communication.pdf)
 
-03 Displays & Actuators
+03 Sensors, Displays & Actuators
 
 04 Using Integrated Circuits
 
@@ -32,7 +32,8 @@ Lecture slides will be posted here on Tuesdays, before class.
 ## Lab Prep 
 Assignments will be posted here on Tuesdays.
 
-[01 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-01)
+[01 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-01) updated 9/3/2019
+[02 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-02) updated 9/10/2019
 
 
 ## Labs
