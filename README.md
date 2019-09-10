@@ -90,7 +90,9 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 27. [Benjamin Yellin bjy26](https://github.com/byellin/Interactive-Lab-Hub)
 28. [Ben Kadosh bk499](https://github.com/BenKadosh1/Interactive-Lab-Hub)
 
-
+30. [Yixue Wang yw2224](https://github.com/yw2224/Interactive-Lab-Hub)
+31. [Christine Ku ck753] (https://github.com/cku3/Interactive-Lab-Hub)
+2. [Ryan Curtis rec284](https://github.com/rec285/Interactive-Lab-Hub)
 
 
 ## Final Project
