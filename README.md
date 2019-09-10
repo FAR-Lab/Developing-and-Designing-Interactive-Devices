@@ -89,6 +89,8 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 23. [Samson Schirmer sas695](https://github.com/sas695/Interactive-Lab-Hub)
 27. [Benjamin Yellin bjy26](https://github.com/byellin/Interactive-Lab-Hub)
 
+28. [Eduardo Castillo ec833](https://github.com/joAQUINCE/Interactive-Lab-Hub/) 
+
 30. [Fabio Daiber fpd27](https://github.com/fpdaiber/Interactive-Lab-Hub)
 
 31. [Bar Kadosh bk497](https://github.com/barkadosh1/Interactive-Lab-Hub)
