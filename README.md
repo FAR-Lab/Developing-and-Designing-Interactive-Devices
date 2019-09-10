@@ -57,8 +57,41 @@ Fork [this repository](https://github.com/FAR-Lab/Interactive-Lab-Hub) for your 
 
 When submitting your assignments, add hyperlinks (only) once they're ready to be reviewed. Late assignments will be penalized by one letter grade per day late.
 
+
+
 1. [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
+2. [Alan Babushkin (azb6)](https://github.com/ababushkin6/Interactive-Lab-Hub)
+3. [Frans Fourie fjf46](https://github.com/Rafajel29/Interactive-Lab-Hub)
+4. [Konstantinos Karras Kallidromitis kk984](https://github.com/Konstantinos-KK/Interactive-Lab-Hub)
+5. [Amanda Trang at669](https://github.com/at669/Interactive-Lab-Hub)
+6. [Eva Pilar Esteban Velasco](https://github.com/evaesteban/Interactive-Lab-Hub)
+7. [Lois Lee ll556](https://github.com/lois-lee/Interactive-Lab-Hub)
+8. [Zachary Gittelman zhg5](https://github.com/zachgitt/Interactive-Lab-Hub)
+9. [Johnway Yih jy795](https://github.com/JwayYih/Interactive-Lab-Hub)
+10. [Ananya Paul ap2273](https://github.com/manification10/Interactive-Lab-Hub)
+11. [Alexander Popeil amp453](https://github.com/popeil97/Interactive-Lab-Hub)
+12. [Michael Chan mkc233](https://github.com/mkc233/Interactive-Lab-Hub)
+13. [Leanna Mulvihill lpm36](https://github.com/LeannaMulv/Interactive-Lab-Hub/blob/master/README_lpm36_LightItUp.pdf)
+14. [Irene Wei zw575](https://github.com/zicongwei/Interactive-Lab-Hub)
+15. [Bo Fang bf366](https://github.com/kmfb21/CS5424-Interactive-Devices-Lab-Hub)
+16. [Dan Witte dw592](https://github.com/drywitte/Interactive-Lab-Hub)
+17. [Zhenwei Zhang zz654](https://github.com/ZhenweiZhang1995/Interactive-Lab-Hub)
+18. [Alana Crognale arc232](https://github.com/AlanaCrognale/Interactive-Lab-Hub)
+19. [Jeremy D Walker jdw342](https://github.com/jwalker34/Interactive-Lab-Hub)
+20. [Chris Shei cs856](https://github.com/ckshei/Interactive-Lab-Hub)
+21. [Noel Konagai nk639](https://github.com/noelkonagai/Interactive-Lab-Hub)
+22. [Sunny Ladkani sl2883](https://github.com/sl2883/Interactive-Lab-Hub)
+23. [Meera Nanda mn584](https://github.com/meerananda/Interactive-Lab-Hub)
+24. [Hartmut Tony Liebel](https://github.com/tonyliebel/Interactive-Lab-Hub)
+25. [Zwee Dao td373](https://github.com/zweedao/Interactive-Lab-Hub)
+26. [Jesse Wayne jmw559](https://github.com/ziggydale45/Interactive-Lab-Hub)
+26. [Matt Freed mwf58](https://github.com/mattfreed/Interactive-Lab-Hub)
+23. [Samson Schirmer sas695](https://github.com/sas695/Interactive-Lab-Hub)
+27. [Benjamin Yellin bjy26](https://github.com/byellin/Interactive-Lab-Hub)
+30. [Yixue Wang yw2224](https://github.com/yw2224/Interactive-Lab-Hub)
+31. [Christine Ku ck753] (https://github.com/cku3/Interactive-Lab-Hub)
 2. [Ryan Curtis rec284](https://github.com/rec285/Interactive-Lab-Hub)
+
 
 ## Final Project
 
@@ -74,6 +107,6 @@ Mondays from 3:00 PM - 5:00 PM in the MakerLAB
 
 Thursdays, 12:20 - 2:20, as well as by appointment, MakerLAB
 
-###### David
+###### DavidBot
 
 Available via Discord
