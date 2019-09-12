@@ -42,7 +42,7 @@ Labs will be posted here on Thursdays.
 
 [Lab #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-01) Light It Up! Getting started with electronics and Arduino prototyping.
 
-Lab #2 Digital Timer - Incorporating light, sound and character displays
+[Lab #2](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-02) Digital Timer - Incorporating light, sound and character displays
 
 Lab #3 Data Logger - Sensing, recording and visualizing information
 
