@@ -107,6 +107,7 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 1. [Zhenwei Zhang zz654](https://github.com/ZhenweiZhang1995/Interactive-Lab-Hub)
 1. [Tomi Kalejaiye ok93](https://github.com/TomiKalejaiye/Interactive-Lab-Hub)
 1. [William J Leon wjl88](https://github.com/wjl88/Interactive-Lab-Hub)
+1. [Jeremy D Walker jdw342](https://github.com/jwalker34/Interactive-Lab-Hub)
 
 
 
