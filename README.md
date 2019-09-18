@@ -36,6 +36,7 @@ Assignments will be posted here on Tuesdays.
 
 [02 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-02) updated 9/10/2019
 
+[03 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-03)
 
 ## Labs
 Labs will be posted here on Thursdays.
