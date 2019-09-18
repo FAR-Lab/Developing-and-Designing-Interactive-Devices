@@ -36,7 +36,7 @@ Assignments will be posted here on Tuesdays.
 
 [02 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-02) updated 9/10/2019
 
-[03 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-03)
+[03 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-03) updated 9/18/2019
 
 ## Labs
 Labs will be posted here on Thursdays.
@@ -45,7 +45,7 @@ Labs will be posted here on Thursdays.
 
 [Lab #2](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-02) Digital Timer - Incorporating light, sound and character displays
 
-Lab #3 Data Logger - Sensing, recording and visualizing information
+[Lab #3](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-03) Data Logger - Sensing, recording and visualizing information
 
 Lab #4 Paper Displays - Using servos, DC motors and simple mechanisms
 
