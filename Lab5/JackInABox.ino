@@ -1,4 +1,4 @@
-// Useless Box Lab 5
+//  Box Lab 5
 //
 // If we see a voltage change on pin 2 the toggle switch on top of the useless box has 
 // changed position and we need to react!
