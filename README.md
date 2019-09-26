@@ -38,6 +38,10 @@ Assignments will be posted here on Tuesdays.
 
 [03 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-03) updated 9/18/2019
 
+[04 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-04) updated 9/25/2019
+
+[05 Prep] (https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-05) updated 9/25/2019
+
 ## Labs
 Labs will be posted here on Thursdays.
 
@@ -47,9 +51,9 @@ Labs will be posted here on Thursdays.
 
 [Lab #3](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-03) Data Logger - Sensing, recording and visualizing information
 
-Lab #4 Paper Displays - Using servos, DC motors and simple mechanisms
+[Lab #4](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-04) Paper Displays - Using servos, DC motors and simple mechanisms
 
-Lab #5 Jack in a Box - Integrating electronics into product
+[Lab #5](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-05) Jack in a Box - Integrating electronics into product
 
 Lab #6 Chatbot - Embedding web interfaces into product
 
