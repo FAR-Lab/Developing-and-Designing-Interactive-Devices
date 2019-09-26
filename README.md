@@ -16,7 +16,7 @@ Lecture slides will be posted here on Tuesdays, before class.
 
 [02 Interaction Design, Microcontrollers & Communication](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/02%20Interaction%20Design%20MCU%20Communication.pdf)
 
-[03 Sensors, Displays & Actuators] -- Guest lecture by Natalie Friedman (https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/03%20Sensors%20Actuators%20NATALIE.pdf)
+[03 Sensors, Displays & Actuators](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/03%20Sensors%20Actuators%20NATALIE.pdf) -- Guest lecture by Natalie Friedman 
 
 04 Design, Making, Fabrication -- Guest lecture by Andrea Cuadra
 
