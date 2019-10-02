@@ -20,7 +20,7 @@ Lecture slides will be posted here on Tuesdays, before class.
 
 04 Design, Making, Fabrication -- Guest lecture by Andrea Cuadra
 
-05 Using ICs
+[05 Using ICs](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/04UsingICs.pdf)
 
 06 Single Board Computers
 
@@ -39,6 +39,8 @@ Assignments will be posted here on Tuesdays.
 [03 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-03) updated 9/18/2019
 
 [04 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-04) updated 9/25/2019
+
+05 Prep is same as 04 prep
 
 
 ## Labs
