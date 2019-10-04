@@ -42,6 +42,8 @@ Assignments will be posted here on Tuesdays.
 
 05 Prep is same as 04 prep
 
+[06 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Pre-Lab-06-2019) updated 10/04/2019
+
 
 ## Labs
 Labs will be posted here on Thursdays.
