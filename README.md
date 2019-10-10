@@ -22,7 +22,7 @@ Lecture slides will be posted here on Tuesdays, before class.
 
 [05 Using ICs](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/04UsingICs.pdf)
 
-06 Single Board Computers
+[06 Single Board Computers](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/06SingleBoardComputers.pdf)
 
 07 Networks, Communication, and Distributed Applications
 
