@@ -131,7 +131,7 @@ Mondays from 3:00 PM - 5:00 PM in the MakerLAB
 
 ###### Leif
 
-Thursdays, 12:20 - 2:20, as well as by appointment, MakerLAB
+Thursdays, 11:00 - 1, as well as by appointment, MakerLAB
 
 ###### DavidBot
 
