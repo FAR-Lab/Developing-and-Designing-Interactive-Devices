@@ -58,7 +58,7 @@ Labs will be posted here on Thursdays.
 
 [Lab #5](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-05) Jack in a Box - Integrating electronics into product
 
-Lab #6 Chatbot - Embedding web interfaces into product
+[Lab #6](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-06) Chatbot - Embedding web interfaces into product
 
 Lab #7 Video Doorbell - Cameras and remote real-time interaction
 
