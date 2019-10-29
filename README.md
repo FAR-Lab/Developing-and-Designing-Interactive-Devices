@@ -22,7 +22,7 @@ Lecture slides will be posted here on Tuesdays, before class.
 
 [05 Using ICs](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/04UsingICs.pdf)
 
-06 Single Board Computers
+[06 Single Board Computers](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/06SingleBoardComputers.pdf)
 
 07 Networks, Communication, and Distributed Applications
 
@@ -44,6 +44,7 @@ Assignments will be posted here on Tuesdays.
 
 [06 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Pre-Lab-06-2019) updated 10/04/2019
 
+[07 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-07) updated 10/22/2019
 
 ## Labs
 Labs will be posted here on Thursdays.
@@ -58,9 +59,9 @@ Labs will be posted here on Thursdays.
 
 [Lab #5](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-05) Jack in a Box - Integrating electronics into product
 
-Lab #6 Chatbot - Embedding web interfaces into product
+[Lab #6](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-06) Chatbot - Embedding web interfaces into product
 
-Lab #7 Video Doorbell - Cameras and remote real-time interaction
+[Lab #7](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-07) Video Doorbell - Cameras and remote real-time interaction
 
 ## Student Submissions
 Fork [this repository](https://github.com/FAR-Lab/Interactive-Lab-Hub) for your class Hub, and link to that below.
@@ -131,7 +132,7 @@ Mondays from 3:00 PM - 5:00 PM in the MakerLAB
 
 ###### Leif
 
-Thursdays, 12:20 - 2:20, as well as by appointment, MakerLAB
+Thursdays, 11:00 AM - 1:00 PM, as well as by appointment, MakerLAB
 
 ###### DavidBot
 
