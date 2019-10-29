@@ -7,7 +7,8 @@ The main repository for a class given by Wendy Ju in the Fall term of 2019 at Co
 ## Class Discussion
 Please use [this invite link](https://discord.gg/Je5Fdaf) to join the class Discord.
 
-
+## Final Project
+Details, schedule for the final project are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Final-Project)
 
 ## Lectures
 Lecture slides will be posted here on Tuesdays, before class.
