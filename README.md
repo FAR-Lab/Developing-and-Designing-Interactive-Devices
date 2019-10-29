@@ -25,9 +25,9 @@ Lecture slides will be posted here on Tuesdays, before class.
 
 [06 Single Board Computers](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/06SingleBoardComputers.pdf)
 
-07 Networks, Communication, and Distributed Applications
+[07 Networks, Communication, and Distributed Applications](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/Connecting_Faludi_2019.pdf)
 
-08 Prototype Refinement
+08 Neural Nets & Making PCBs
 
 
 ## Lab Prep 
