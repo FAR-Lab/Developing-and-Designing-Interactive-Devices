@@ -123,6 +123,8 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 
 ## Final Project
 
+1. [Musical Blinks](https://github.com/cku3/IDD-final-project-musical-blinks)
+
 ## Office Hours
 ###### Wendy
 Mondays from 3:00 PM - 5:00 PM in Bloomberg 254 or the MakerLAB. 
