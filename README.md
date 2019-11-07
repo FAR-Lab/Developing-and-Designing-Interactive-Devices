@@ -124,6 +124,7 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 ## Final Project
 
 1. [Musical Blinks](https://github.com/cku3/IDD-final-project-musical-blinks)
+2. [Computer Vision Dump Truck](https://github.com/mattfreed/ComputerVisionDumptruck)
 
 ## Office Hours
 ###### Wendy
