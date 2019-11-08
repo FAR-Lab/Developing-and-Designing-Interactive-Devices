@@ -122,6 +122,7 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 
 
 ## Final Project
+[Pancake Printer (Ryan Curtis rec284 & Alexander Popeil amp453)](https://github.com/rec285/IDD_Final_Project)
 
 1. [Musical Blinks](https://github.com/cku3/IDD-final-project-musical-blinks)
 
