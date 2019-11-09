@@ -29,6 +29,7 @@ Lecture slides will be posted here on Tuesdays, before class.
 
 08 Neural Nets & Making PCBs
 
+[09 Evaluating Products with People](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/EvaluatingProductsWithPeople.pdf) -- Guest lecture by Noam Zomerfeld
 
 ## Lab Prep 
 Assignments will be posted here on Tuesdays.
