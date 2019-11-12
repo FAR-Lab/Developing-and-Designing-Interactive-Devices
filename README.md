@@ -123,13 +123,17 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 
 
 ## Final Project
-[Pancake Printer (Ryan Curtis rec284 & Alexander Popeil amp453)](https://github.com/rec285/IDD_Final_Project)
 
 1. [Musical Blinks](https://github.com/cku3/IDD-final-project-musical-blinks)
 2. [Computer Vision Dump Truck](https://github.com/mattfreed/ComputerVisionDumptruck)
 3. [Pancake Printer (Ryan Curtis rec284 & Alexander Popeil amp453)](https://github.com/rec285/IDD_Final_Project)
-4. [Haptic Musical Feedback](https://github.com/lois-lee/IDD)
-## Office Hours
+
+4. [Ai.re - optimized room temperature (azb6, fpd27, zl769)](https://github.com/ababushkin6/IDD-Fall19-FinalProject)
+
+
+5. [Haptic Musical Feedback](https://github.com/lois-lee/IDD)
+
+## Office Hours 
 ###### Wendy
 Mondays from 3:00 PM - 5:00 PM in Bloomberg 254 or the MakerLAB. 
 
