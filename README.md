@@ -123,11 +123,10 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 
 
 ## Final Project
-1. [Self-balancing robot](https://github.com/zweedao/IDD-Fa19-Final)
 
 1. [Musical Blinks](https://github.com/cku3/IDD-final-project-musical-blinks)
 2. [Computer Vision Dump Truck](https://github.com/mattfreed/ComputerVisionDumptruck)
-3. [Pancake Printer (Ryan Curtis rec284 & Alexander Popeil amp453)](https://github.com/rec285/IDD_Final_Project)
+3. Robo Drink Mixer (Ryan Curtis rec284 & Alexander Popeil amp453)](https://github.com/rec285/IDD_Final_Project)
 4. [Ai.re - optimized room temperature (azb6, fpd27, zl769)](https://github.com/ababushkin6/IDD-Fall19-FinalProject)
 5. [Haptic Musical Feedback](https://github.com/lois-lee/IDD)
 6. [Tabletop Gaming](https://github.com/sl2883/IDD_Final__Project)
