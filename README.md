@@ -132,6 +132,7 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 6. [Tabletop Gaming](https://github.com/sl2883/IDD_Final__Project)
 7. [Parky](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/README.md)
 8. [Collapsing Blocks](https://github.com/sandraebirim/FinalProject)
+9. [Self Balancing Robot (td373)](https://github.com/zweedao/IDD-Fa19-Final)
 
 ## Office Hours 
 
