@@ -131,6 +131,7 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 5. [Haptic Musical Feedback](https://github.com/lois-lee/IDD)
 6. [Tabletop Gaming](https://github.com/sl2883/IDD_Final__Project)
 7. [Parky](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/README.md)
+8. [Collapsing Blocks](https://github.com/sandraebirim/FinalProject)
 
 ## Office Hours 
 
