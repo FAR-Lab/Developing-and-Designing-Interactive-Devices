@@ -7,7 +7,8 @@ The main repository for a class given by Wendy Ju in the Fall term of 2019 at Co
 ## Class Discussion
 Please use [this invite link](https://discord.gg/Je5Fdaf) to join the class Discord.
 
-
+## Final Project
+Details, schedule for the final project are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Final-Project)
 
 ## Lectures
 Lecture slides will be posted here on Tuesdays, before class.
@@ -24,10 +25,11 @@ Lecture slides will be posted here on Tuesdays, before class.
 
 [06 Single Board Computers](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/06SingleBoardComputers.pdf)
 
-07 Networks, Communication, and Distributed Applications
+[07 Networks, Communication, and Distributed Applications](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/Connecting_Faludi_2019.pdf)
 
-08 Prototype Refinement
+08 Neural Nets & Making PCBs
 
+[09 Evaluating Products with People](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/EvaluatingProductsWithPeople.pdf) -- Guest lecture by Noam Zomerfeld
 
 ## Lab Prep 
 Assignments will be posted here on Tuesdays.
@@ -121,9 +123,19 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 
 
 ## Final Project
-[~~Pancake Printer~~ Robo Drink Mixer (Ryan Curtis rec284 & Alexander Popeil amp453)](https://github.com/rec285/IDD_Final_Project)
 
-## Office Hours
+1. [Musical Blinks](https://github.com/cku3/IDD-final-project-musical-blinks)
+2. [Computer Vision Dump Truck](https://github.com/mattfreed/ComputerVisionDumptruck)
+3. Robo Drink Mixer (Ryan Curtis rec284 & Alexander Popeil amp453)](https://github.com/rec285/IDD_Final_Project)
+4. [Ai.re - optimized room temperature (azb6, fpd27, zl769)](https://github.com/ababushkin6/IDD-Fall19-FinalProject)
+5. [Haptic Musical Feedback](https://github.com/lois-lee/IDD)
+6. [Tabletop Gaming](https://github.com/sl2883/IDD_Final__Project)
+7. [Parky](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/README.md)
+8. [Collapsing Blocks](https://github.com/sandraebirim/FinalProject)
+9. [Self Balancing Robot (td373)](https://github.com/zweedao/IDD-Fa19-Final)
+
+## Office Hours 
+
 ###### Wendy
 Mondays from 3:00 PM - 5:00 PM in Bloomberg 254 or the MakerLAB. 
 
