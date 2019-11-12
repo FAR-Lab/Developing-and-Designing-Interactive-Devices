@@ -86,6 +86,7 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 
 
 ## Final Project
+1. [Self-balancing robot](https://github.com/zweedao/IDD-Fa19-Final)
 
 ## Office Hours
 ###### Wendy
