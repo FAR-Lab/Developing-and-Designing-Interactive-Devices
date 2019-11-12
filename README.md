@@ -128,6 +128,7 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 1. [Musical Blinks](https://github.com/cku3/IDD-final-project-musical-blinks)
 2. [Computer Vision Dump Truck](https://github.com/mattfreed/ComputerVisionDumptruck)
 3. [Pancake Printer (Ryan Curtis rec284 & Alexander Popeil amp453)](https://github.com/rec285/IDD_Final_Project)
+4. [Haptic Musical Feedback](https://github.com/lois-lee/IDD)
 ## Office Hours
 ###### Wendy
 Mondays from 3:00 PM - 5:00 PM in Bloomberg 254 or the MakerLAB. 
