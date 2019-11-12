@@ -129,7 +129,7 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 3. [Pancake Printer (Ryan Curtis rec284 & Alexander Popeil amp453)](https://github.com/rec285/IDD_Final_Project)
 4. [Ai.re - optimized room temperature (azb6, fpd27, zl769)](https://github.com/ababushkin6/IDD-Fall19-FinalProject)
 5. [Haptic Musical Feedback](https://github.com/lois-lee/IDD)
-6. [Tabletop Gaming] (https://github.com/sl2883/IDD_Final__Project)
+6. [Tabletop Gaming](https://github.com/sl2883/IDD_Final__Project)
 7. [Parky](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/README.md)
 
 ## Office Hours 
