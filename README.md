@@ -136,6 +136,7 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 10.[Boogie Woogie 123](https://github.com/Rafajel29/IDD-Final-Project)
 11. [Cow Thermometer lpm36](https://github.com/LeannaMulv/Cow_Thermometer_lpm36)
 12. [Labryinth dw592 zhg5](https://github.com/drywitte/labryinth)
+13. [Interactive Gauntlet](https://github.com/yw2224/Interactive-Lab-Hub/blob/master/Final/proposal.md)
 
 ## Office Hours 
 
