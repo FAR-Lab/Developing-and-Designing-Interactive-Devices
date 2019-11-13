@@ -134,6 +134,8 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 8. [Collapsing Blocks](https://github.com/sandraebirim/FinalProject)
 9. [Self Balancing Robot (td373)](https://github.com/zweedao/IDD-Fa19-Final)
 10.[Boogie Woogie 123](https://github.com/Rafajel29/IDD-Final-Project)
+11. [Cow Thermometer lpm36](https://github.com/LeannaMulv/Cow_Thermometer_lpm36)
+12. [Labryinth dw592 zhg5](https://github.com/drywitte/labryinth)
 
 ## Office Hours 
 
