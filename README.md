@@ -1,4 +1,4 @@
-# Developing-and-Designing-Interactive-Devices
+# Interactive-Device-Design
 The main repository for a class given by Wendy Ju in the Fall term of 2019 at Cornell Tech.
 
 ## Syllabus
