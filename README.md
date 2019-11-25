@@ -31,7 +31,7 @@ Lecture slides will be posted here on Tuesdays, before class.
 
 [09 Evaluating Products with People](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/EvaluatingProductsWithPeople.pdf) -- Guest lecture by Noam Zomerfeld
 
-[10 Noah Feehan Guest Lecture ]
+[10 Noah Feehan Guest Lecture](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/AKA_cornell19.pdf)
 
 ## Lab Prep 
 Assignments will be posted here on Tuesdays.
