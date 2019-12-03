@@ -141,7 +141,8 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 13. [Interactive Gauntlet](https://github.com/yw2224/Interactive-Lab-Hub/blob/master/Final/proposal.md)
 14. [LED Nightstand jy795 sas695](https://github.com/JwayYih/IDD-Fa19-Final)
 15. [Mind-controlled Wheelchair](//github.com/evaesteban/IDD-Final-Project).
-16. [Digital-Ghungroo](https://github.com/manification10/Digital-Gungroo)
+16. [Digital-Ghungroo](https://github.com/manification10/Digital-Gungroo)  
+17. [Interactive dog camera](https://github.com/ZhenweiZhang1995/interactive-dog-camera)
 
 ## Office Hours 
 
