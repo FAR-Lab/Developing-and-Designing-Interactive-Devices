@@ -143,6 +143,7 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 15. [Mind-controlled Wheelchair](//github.com/evaesteban/IDD-Final-Project).
 16. [Digital-Ghungroo](https://github.com/manification10/Digital-Gungroo)  
 17. [Interactive dog camera](https://github.com/ZhenweiZhang1995/interactive-dog-camera)
+18. [Indoor Air Quality Filtering System, ut33, Vini Tripathii](https://github.com/ut33/IDDFinalProject)
 
 ## Office Hours 
 
