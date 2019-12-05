@@ -142,7 +142,7 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 14. [LED Nightstand jy795 sas695](https://github.com/JwayYih/IDD-Fa19-Final)
 15. [Mind-controlled Wheelchair](//github.com/evaesteban/IDD-Final-Project).
 16. [Digital-Ghungroo](https://github.com/manification10/Digital-Gungroo)
-17. [Indoor Air Quality Filtering System, ut33, Vini Tripathii] (https://github.com/ut33/IDDFinalProject)
+17. [Indoor Air Quality Filtering System, ut33, Vini Tripathii](https://github.com/ut33/IDDFinalProject)
 
 ## Office Hours 
 
