@@ -144,6 +144,7 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 16. [Digital-Ghungroo](https://github.com/manification10/Digital-Gungroo)  
 17. [Interactive dog camera](https://github.com/ZhenweiZhang1995/interactive-dog-camera)
 18. [Indoor Air Quality Filtering System, ut33, Vini Tripathii](https://github.com/ut33/IDDFinalProject)
+19. [IoT Toaster, sgc87, ak2552](https://github.com/sgc87/Interactive-Lab-Hub/tree/master/Final%20Project)
 
 ## Office Hours 
 
