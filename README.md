@@ -138,7 +138,7 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 10. [Boogie Woogie 123](https://github.com/Rafajel29/IDD-Final-Project)
 11. [Cow Thermometer lpm36](https://github.com/LeannaMulv/Cow_Thermometer_lpm36)
 12. [Labryinth dw592 zhg5](https://github.com/drywitte/labryinth)
-13. [Interactive Gauntlet](https://github.com/yw2224/Interactive-Lab-Hub/blob/master/Final/proposal.md)
+13. [Interactive Gauntlet](https://github.com/yw2224/Interactive-Lab-Hub/blob/master/Final/doc.md)
 14. [LED Nightstand jy795 sas695](https://github.com/JwayYih/IDD-Fa19-Final)
 15. [Mind-controlled Wheelchair](//github.com/evaesteban/IDD-Final-Project).
 16. [Digital-Ghungroo](https://github.com/manification10/Digital-Gungroo)  
