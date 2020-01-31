@@ -1,0 +1,14 @@
+TROUBLESHOOTING IF THEY DON”T GET EMAIL in LAB 6
+
+Turn on internet sharing, wifi, usb in system preferences
+
+plug in the Raspi to my computer
+
+Lan scan
+
+Ssh with the IP
+
+ifconfig
+Look for wlan0 and then tell the student to use net IP, Which gives them the wifi rather than the ethernet port which we got before. 
+
+iwconfig shows all wireless connections, we know that Red rover comes up
