@@ -26,7 +26,7 @@ Labs will be posted here on Tuesdays.
 
 | Lab  | Alt-Lab |
 | ------------- | ------------- |
-| [Lab #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-01) Arduino! Getting started with electronics and Arduino prototyping.  | [Alt-Lab #1] Arduino Deep-dive|
+| [Lab #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-01) Arduino! Getting started with electronics and Arduino prototyping.  | [Alt-Lab #1] [Arduino Deep-dive](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Alt-Lab-1.-Arduino-Deep-Dive)|
 | [Lab #2] Digital Timer - Incorporating light, sound and character displays  |  [Alt-Lab #2] DIY Arduino|
 | [Lab #3] Prototyping with paper |  |
 | [Lab #4] Data Logger - Sensing, recording and visualizing information| [Alt-Lab #3] Bring up your Arduino |
