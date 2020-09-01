@@ -1,5 +1,5 @@
 # Interactive-Device-Design
-The main repository for a class given by Wendy Ju in the Fall term of 2019 at Cornell Tech.
+The main repository for a class given by Wendy Ju in the Fall term of 2020 at Cornell Tech.
 
 ## Syllabus
 [Syllabus](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Syllabus_Fall19.pdf) Updated November 26, 2019
@@ -36,39 +36,25 @@ Lecture slides will be posted here on Tuesdays, before class.
 ## Lab Prep 
 Assignments will be posted here on Tuesdays.
 
-[01 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-01) updated 9/3/2019
+[01 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-01) updated 9/1/2020
 
-[02 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-02) updated 9/10/2019
 
-[03 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-03) updated 9/18/2019
-
-[04 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-04) updated 9/25/2019
-
-05 Prep is same as 04 prep
-
-[06 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Pre-Lab-06-2019) updated 10/04/2019
-
-[07 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-07) updated 10/22/2019
 
 ## Labs
-Labs will be posted here on Thursdays.
+Labs will be posted here on Tuesdays.
 
-[Lab #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-01) Light It Up! Getting started with electronics and Arduino prototyping.
-
-[Lab #2](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-02) Digital Timer - Incorporating light, sound and character displays
-
-[Lab #3](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-03) Data Logger - Sensing, recording and visualizing information
-
-[Lab #4](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-04) Paper Displays - Using servos, DC motors and simple mechanisms
-
-[Lab #5](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-05) Jack in a Box - Integrating electronics into product
-
-[Lab #6](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-06) Chatbot - Embedding web interfaces into product
-
-[Lab #7](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-07) Video Doorbell - Cameras and remote real-time interaction
+| Lab  | Alt-Lab |
+| ------------- | ------------- |
+| [Lab #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-01) Arduino! Getting started with electronics and Arduino prototyping.  | [Alt-Lab #1] Arduino Deep-dive|
+| [Lab #2] Digital Timer - Incorporating light, sound and character displays  |  [Alt-Lab #2] DIY Arduino|
+| [Lab #3] Prototyping with paper |  |
+| [Lab #4] Data Logger - Sensing, recording and visualizing information| [Alt-Lab #3] Bring up your Arduino |
+| [Lab #5] Integrated Interactive Device |  |
+| [Lab #6] ListeningBot |   |
+| [Lab #7] VideoDoorbell |   |
 
 ## Student Submissions
-Fork [this repository](https://github.com/FAR-Lab/Interactive-Lab-Hub) for your class Hub, and link to that below.
+Fork [this repository] for your class Hub, and link to that below.
 
 When submitting your assignments, add hyperlinks (only) once they're ready to be reviewed. Late assignments will be penalized by one letter grade per day late.
 
@@ -124,42 +110,20 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 
 
 
-## Final Project
-
-1. [Musical Blinks](https://github.com/cku3/IDD-final-project-musical-blinks)
-2. [Computer Vision Dump Truck](https://github.com/mattfreed/ComputerVisionDumptruck)
-3. [Robo Drink Mixer (Ryan Curtis rec284 & Alexander Popeil amp453)](https://github.com/rec285/IDD_Final_Project)
-4. [Ai.re - optimized room temperature (azb6, fpd27, zl769)](https://github.com/ababushkin6/IDD-Fall19-FinalProject)
-5. [Haptic Musical Feedback](https://github.com/lois-lee/IDD)
-6. [Tabletop Gaming](https://github.com/sl2883/IDD_Final__Project)
-7. [Parky (EC833, BK497, BK499, JDW342)](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/README.md)
-8. [Collapsing Blocks](https://github.com/sandraebirim/FinalProject)
-9. [Self Balancing Robot (td373)](https://github.com/zweedao/IDD-Fa19-Final)
-10. [Boogie Woogie 123](https://github.com/Rafajel29/IDD-Final-Project)
-11. [Cow Thermometer lpm36](https://github.com/LeannaMulv/Cow_Thermometer_lpm36)
-12. [Labryinth dw592 zhg5](https://github.com/drywitte/labryinth)
-13. [Interactive Gauntlet](https://github.com/yw2224/Interactive-Lab-Hub/blob/master/Final/doc.md)
-14. [LED Nightstand jy795 sas695](https://github.com/JwayYih/IDD-Fa19-Final)
-15. [Mind-controlled Wheelchair](//github.com/evaesteban/IDD-Final-Project).
-16. [Digital-Ghungroo](https://github.com/manification10/Digital-Gungroo)  
-17. [Interactive dog camera](https://github.com/ZhenweiZhang1995/interactive-dog-camera)
-18. [Indoor Air Quality Filtering System, ut33, Vini Tripathii](https://github.com/ut33/IDDFinalProject)
-19. [IoT Toaster, sgc87, ak2552](https://github.com/sgc87/Interactive-Lab-Hub/tree/master/Final%20Project)
-20. [Mini-Basketball, mkc233](https://github.com/mkc233/IDD-Fa19-Final-Project)
 
 ## Office Hours 
 
 ###### Wendy
-Mondays from 3:00 PM - 5:00 PM in Bloomberg 254 or the MakerLAB. 
+???
 
-###### Natalie
+###### Paridhi
 
-Mondays from 3:00 PM - 5:00 PM in the MakerLAB
+???
 
-###### Leif
+###### Ilan
 
-Thursdays, 11:00 AM - 1:00 PM, as well as by appointment, MakerLAB
+???
 
 ###### DavidBot
 
-Available via Discord
+Available via Slack
