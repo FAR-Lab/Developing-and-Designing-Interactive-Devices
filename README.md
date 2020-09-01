@@ -2,7 +2,7 @@
 The main repository for a class given by Wendy Ju in the Fall term of 2020 at Cornell Tech.
 
 ## Syllabus
-[Syllabus](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Syllabus_Fall19.pdf) Updated November 26, 2019
+[Syllabus](https://canvas.cornell.edu/courses/20078/assignments/syllabus) Updated September 1, 2020
 
 ## Class Discussion
 Please use [this invite link](https://discord.gg/Je5Fdaf) to join the class Discord.
@@ -13,25 +13,8 @@ Details, schedule for the final project are [here](https://github.com/FAR-Lab/De
 ## Lectures
 Lecture slides will be posted here on Tuesdays, before class.
 
-[01 Circuits & Microcontrollers](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/01%20Circuits%20%26%20Microcontrollers.pdf)
+[01 Circuits & Microcontroller]
 
-[02 Interaction Design, Microcontrollers & Communication](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/02%20Interaction%20Design%20MCU%20Communication.pdf)
-
-[03 Sensors, Displays & Actuators](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/03%20Sensors%20Actuators%20NATALIE.pdf) -- Guest lecture by Natalie Friedman 
-
-[04 Design, Making, Fabrication](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/DesignMakingFabrication_Sept2019_sm.pdf) -- Guest lecture by Andrea Cuadra
-
-[05 Using ICs](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/04UsingICs.pdf)
-
-[06 Single Board Computers](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/06SingleBoardComputers.pdf)
-
-[07 Networks, Communication, and Distributed Applications](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/Connecting_Faludi_2019.pdf)
-
-08 Neural Nets & Making PCBs
-
-[09 Evaluating Products with People](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/EvaluatingProductsWithPeople.pdf) -- Guest lecture by Noam Zomerfeld
-
-[10 Hologram Fragments Noah Feehan Guest Lecture](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Slides/AKA_cornell19.pdf)
 
 ## Lab Prep 
 Assignments will be posted here on Tuesdays.
