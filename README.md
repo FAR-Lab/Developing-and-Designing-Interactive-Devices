@@ -5,15 +5,13 @@ The main repository for a class given by Wendy Ju in the Fall term of 2020 at Co
 [Syllabus](https://canvas.cornell.edu/courses/20078/assignments/syllabus) Updated September 1, 2020
 
 ## Class Discussion
-Please use [this invite link](https://discord.gg/Je5Fdaf) to join the class Discord.
+Class discussion will occur on the [Cornell Tech Slack](cornelltech.slack.com), in the channel #interactivedevicedesign-fall2020.
 
 ## Final Project
 Details, schedule for the final project are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Final-Project)
 
 ## Lectures
-Lecture slides will be posted here on Tuesdays, before class.
-
-[01 Circuits & Microcontroller]
+Lecture slides will be posted on Canvas.
 
 
 ## Lab Prep 
