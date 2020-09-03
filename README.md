@@ -17,7 +17,7 @@ Lecture slides will be posted on Canvas.
 ## Lab Prep 
 Assignments will be posted here on Tuesdays.
 
-[01 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Alt-Pre---Lab-1) updated 9/1/2020
+[01 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-01) and [Alt-01 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Alt-Pre---Lab-1) updated 9/1/2020
 
 
 
