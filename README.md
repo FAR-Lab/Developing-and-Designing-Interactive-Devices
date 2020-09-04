@@ -51,16 +51,16 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 ## Office Hours 
 
 ###### Wendy
-???
+Mondays 1-2pm in the class Zoom
+Message on Slack
+
 
 ###### Paridhi
 
 ???
 
 ###### Ilan
-
-???
+Available via Slack
 
 ###### DavidBot
-
 Available via Slack
