@@ -52,6 +52,7 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 
 ###### Wendy
 Mondays 1-2pm in the class Zoom
+
 Message on Slack
 
 
