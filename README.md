@@ -1,67 +1,28 @@
-# Interactive-Device-Design
-The main repository for a class given by Wendy Ju in the Fall term of 2020 at Cornell Tech.
+<p align="center">
+  <a href="https://revealjs.com">
+  <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text.svg" alt="reveal.js" width="450">
+  </a>
+  <br><br>
+  <a href="https://github.com/hakimel/reveal.js/actions"><img src="https://github.com/hakimel/reveal.js/workflows/tests/badge.svg"></a>
+  <a href="https://slides.com/"><img src="https://s3.amazonaws.com/static.slid.es/images/slides-github-banner-320x40.png?1" alt="Slides" width="160" height="20"></a>
+</p>
 
-## Syllabus
-[Syllabus](https://canvas.cornell.edu/courses/20078/assignments/syllabus) Updated September 1, 2020
+reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create fully featured and beautiful presentations for free. [Check out the live demo](https://revealjs.com/).
 
-## Class Discussion
-Class discussion will occur on the [Cornell Tech Slack](cornelltech.slack.com), in the channel #interactivedevicedesign-fall2020.
+The framework comes with a broad range of features including [nested slides](https://revealjs.com/vertical-slides/), [Markdown support](https://revealjs.com/markdown/), [Auto-Animate](https://revealjs.com/auto-animate/), [PDF export](https://revealjs.com/pdf-export/), [speaker notes](https://revealjs.com/speaker-view/), [LaTeX support](https://revealjs.com/math/), [syntax highlighted code](https://revealjs.com/code/) and much more.
 
-## Final Project
-Details, schedule for the final project are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Final-Project)
+<h1>
+  <a href="https://revealjs.com/installation" style="font-size: 3em;">Get Started</a>
+</h1>
 
-## Lectures
-Lecture slides will be posted on Canvas.
+## Documentation
+The full reveal.js documentation is available at [revealjs.com](https://revealjs.com).
 
+## Online Editor
+Want to create your presentation using a visual editor? Try the official reveal.js presentation platform for free at [Slides.com](https://slides.com). It's made by the same people behind reveal.js.
 
-## Lab Prep 
-Assignments will be posted here on Tuesdays.
+## License
 
-[01 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-01) and [Alt-01 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Alt-Pre---Lab-1) updated 9/1/2020
+MIT licensed
 
-
-
-## Labs
-Labs will be posted here on Tuesdays.
-
-| Lab  | Alt-Lab |
-| ------------- | ------------- |
-| [Lab #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-01) Arduino! Getting started with electronics and Arduino prototyping.  | [Alt-Lab #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Alt-Lab-1.-Arduino-Deep-Dive) Arduino Deep-dive|
-| [Lab #2] Digital Timer - Incorporating light, sound and character displays  |  [Alt-Lab #2](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Alt-Lab-2.-DIY-Arduino) DIY Arduino|
-| [Lab #3] Prototyping with paper |  |
-| [Lab #4] Data Logger - Sensing, recording and visualizing information| [Alt-Lab #3] Bring up your Arduino |
-| [Lab #5] Integrated Interactive Device |  |
-| [Lab #6] ListeningBot |   |
-| [Lab #7] VideoDoorbell |   |
-
-## Student Submissions
-Fork [this repository] for your class Hub, and link to that below.
-
-When submitting your assignments, add hyperlinks (only) once they're ready to be reviewed. Late assignments will be penalized by one letter grade per day late.
-
-
-
-Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
-'1. [Student name netid](link)'
-
-
-
-
-
-## Office Hours 
-
-###### Wendy
-Mondays 1-2pm in the class Zoom
-
-Message on Slack
-
-
-###### Paridhi
-
-???
-
-###### Ilan
-Available via Slack
-
-###### DavidBot
-Available via Slack
+Copyright (C) 2011-2020 Hakim El Hattab, https://hakim.se
