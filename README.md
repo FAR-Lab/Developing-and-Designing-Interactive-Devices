@@ -42,6 +42,7 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 
 
 Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
+
 '1. [Student name netid](link)'
 
 
