@@ -62,7 +62,7 @@ Message on Slack
 
 
 ###### Paridhi
-Friday 11am - 12pm, 7 - 8pm
+Friday 7 - 9pm
 
 ###### Ilan
 Available via Slack
