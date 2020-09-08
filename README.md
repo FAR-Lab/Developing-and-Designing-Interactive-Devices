@@ -62,8 +62,7 @@ Message on Slack
 
 
 ###### Paridhi
-
-???
+Friday 11 - 12am, 7 - 8pm
 
 ###### Ilan
 Available via Slack
