@@ -34,7 +34,10 @@ Labs will be posted here on Tuesdays.
 | [Lab #6] ListeningBot |   |
 | [Lab #7] VideoDoorbell |   |
 
-## Student Submissions
+## Student Submissions:
+
+https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/How-to-Use-GIT
+
 Fork [this repository] for your class Hub, and link to that below.
 
 When submitting your assignments, add hyperlinks (only) once they're ready to be reviewed. Late assignments will be penalized by one letter grade per day late.
