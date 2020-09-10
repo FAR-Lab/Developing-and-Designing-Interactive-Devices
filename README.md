@@ -37,17 +37,15 @@ Labs will be posted here on Tuesdays.
 
 ## Student Submissions:
 
-https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/How-to-Use-GIT
+First fork  [this repository](https://github.com/FAR-Lab/Interactive-Lab-Hub) for your own version of the class Hub and then clone that repository, and link to that below. Detailed instructions are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/How-to-Use-GIT).
 
-First Fork then clone [this repository](https://github.com/FAR-Lab/Interactive-Lab-Hub) for your own version of the class Hub, and link to that below.
-
-When submitting your assignments, you will update your assignments on your class hub. The teaching will be review the assignments sometime after the due date. Late assignments will be penalized by one letter grade per day late.
+When submitting your assignments, you will update your assignments on your class hub. The teaching team will be review the assignments sometime after the due date. Late assignments (e.g. your assignment is missing/incomplete at our grading time, which is after the due date) will be penalized by one letter grade per day late.
 
 
 
 Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 
-'1. [Student name netid](link)'
+'1. [Samy Abisaleh sma293](https://github.com/SamyAbisaleh/Interactive-Lab-Hub)'
 
 
 
