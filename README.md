@@ -37,7 +37,7 @@ Labs will be posted here on Tuesdays.
 
 ## Student Submissions:
 
-Fork  [the Interactive Lab Hub repository](https://github.com/FAR-Lab/Interactive-Lab-Hub) for your own version of the class Hub and then put a link for your Hub to the list below. <!--Detailed instructions are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/How-to-Use-GIT).-->
+Fork  [the Interactive Lab Hub repository](https://github.com/FAR-Lab/Interactive-Lab-Hub) for your own version of the class Hub and then put a link for your Hub to the list below. Detailed instructions for creating your hub and updating your labs are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2020Fall/readings/Submitting%20Labs.md).
 
 When submitting your assignments, you will update your assignments on your class hub. The teaching team will be review the assignments sometime after the due date. Late assignments (e.g. your assignment is missing/incomplete at our grading time, which is after the due date) will be penalized by one letter grade per day late.
 
