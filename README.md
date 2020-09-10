@@ -39,9 +39,9 @@ Labs will be posted here on Tuesdays.
 
 https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/How-to-Use-GIT
 
-Fork [this repository] for your class Hub, and link to that below.
+Fork [this repository](https://github.com/FAR-Lab/Interactive-Lab-Hub) for your own version of the class Hub, and link to that below.
 
-When submitting your assignments, add hyperlinks (only) once they're ready to be reviewed. Late assignments will be penalized by one letter grade per day late.
+When submitting your assignments, you will update your assignments on your class hub. The teaching will be review the assignments sometime after the due date. Late assignments will be penalized by one letter grade per day late.
 
 
 
