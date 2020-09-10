@@ -45,7 +45,8 @@ When submitting your assignments, you will update your assignments on your class
 
 Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 
-'1. [Samy Abisaleh sma293](https://github.com/SamyAbisaleh/Interactive-Lab-Hub)'
+'1. [Your name netid](link to your cloned repo on Github)'
+1. [Samy Abisaleh sma293](https://github.com/SamyAbisaleh/Interactive-Lab-Hub)
 
 
 
