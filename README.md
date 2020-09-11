@@ -37,20 +37,24 @@ Labs will be posted here on Tuesdays.
 
 ## Student Submissions:
 
-https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/How-to-Use-GIT
+Fork  [the Interactive Lab Hub repository](https://github.com/FAR-Lab/Interactive-Lab-Hub) for your own version of the class Hub and then put a link for your Hub to the list below. Detailed instructions for creating your hub and updating your labs are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2020Fall/readings/Submitting%20Labs.md).
 
-Fork [this repository] for your class Hub, and link to that below.
-
-When submitting your assignments, add hyperlinks (only) once they're ready to be reviewed. Late assignments will be penalized by one letter grade per day late.
+When submitting your assignments, you will update your assignments on your class hub. The teaching team will be review the assignments sometime after the due date. Late assignments (e.g. your assignment is missing/incomplete at our grading time, which is after the due date) will be penalized by one letter grade per day late.
 
 
 
 Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 
-'1. [Student name netid](link)'
-
-
-
+'1. [Your name netid](link to your cloned repo on Github)'
+1. [Samy Abisaleh sma293](https://github.com/SamyAbisaleh/Interactive-Lab-Hub)
+2. [Elijah Roussos](https://github.com/rbingham97/Interactive-Lab-Hub)
+3. [Kunlong Jia](https://github.com/Kunlong1994/IDD_20Fall-Lab1)
+4. [Omer](https://github.com/oi38/Interactive-Lab-Hub)		
+5. [Russell Bingham](https://github.com/rbingham97/Interactive-Lab-Hub)
+6. [Darren Midkiff](https://github.com/dcmid/Lab1)					
+7. [Eddie Rodriguez](https://github.com/ThisGuyEddie/Developing-and-Designing-Interactive-Devices/tree/2020Fall/Lab1)		
+8. [Henry Wu](https://github.com/henryw30/Interactive-Lab-Hub)
+9. [Everett Key](https://github.com/EverettKey/Interactive-Lab-Hub)																							
 
 
 ## Office Hours 
@@ -62,7 +66,7 @@ Message on Slack
 
 
 ###### Paridhi
-Friday 11am - 12pm, 7 - 8pm
+Friday 7 - 9pm
 
 ###### Ilan
 Available via Slack
