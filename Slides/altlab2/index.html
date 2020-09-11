@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Intro to PCB Design</title>
+
+		<meta name="description" content="A brief overview of making your own Printed Circuit Boards">
+		<meta name="author" content="Ilan Mandel">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black.css" id="theme">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section>
+					<h3>Making Your Own Printed Circuit Boards</h3>
+					<p>
+						<small>Ilan Mandel</small>
+					</p>
+				</section>
+
+				<section>
+						<h4>What is a printed Circuit Board?</h4>
+						<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/SEG_DVD_430_-_Printed_circuit_board-4276.jpg/1920px-SEG_DVD_430_-_Printed_circuit_board-4276.jpg" style="height: 440px; margin: 0 auto 4rem auto; background: transparent;">
+					
+				</section>
+				<section>
+					<style>
+						.container{
+						    display: flex;
+						    align-items: center;
+						}
+						.col{
+						    flex: 1;
+						}
+					</style>
+					<h4>Types of PCBs</h4>
+					<div class="container">
+					<div class="col">
+					<p class="fragment">Single Sided</p>
+					<p class="fragment">Double Sided</p>
+					<p class="fragment">Multi-layer</p>
+					<p class="fragment">Flexible PCBs</p>
+					</div>
+					<div class="col fragment">
+					<img src="https://www.wellpcb.com/sites/default/files/PCB%20Layers1.png" style="width:30vw">
+					<br>
+					<small><a href="https://www.wellpcb.com">wellpcb</a></small>
+					</div>
+				</section>
+				<section>
+					<section>
+					<h3>Anatomy of a PCB</h3>
+					<p>
+						<small>read more at <a href="https://www.autodesk.com/products/eagle/blog/every-layer-explained-autodesk-eagle/">Autodesk</a></small>
+					</p>
+					</section>
+					<section>
+						<h4>Silkscreen</h4>
+						<p>The very top and bottom layer of your board inclues:
+							<br>Layer 21-22: tPlace/bPlace
+							<br>Layer 25-26: tNames/bNames
+						</p>
+						<img src="http://manage.pcbgogo.com/img/js/ueditor/ueditor1.4.3.3/net/upload/image/20190725/6369966262576798057190299.png" style="height:43vh">
+						<br><small><a href="http://manage.pcbgogo.com">pcbgogo</a></small>
+					</section>
+					<section>
+						<h4>Soldermask</h4>
+						<img src="https://cdn.shopify.com/s/files/1/0275/2361/products/Bantam-Tools-Desktop-CNC-Milling-QFN44_1000x1500.jpg?v=1572359018" style="height:45vh">
+						<br>
+						<small><a href="https://www.bantamtools.com/">Bantam Tools</a></small>
+					</section>
+					<section>
+						<h4>Top</h4>
+						<p>This is the top copper routing layer of the board</p>
+						<img src="https://www.autodesk.com/products/eagle/blog/wp-content/uploads/2017/08/eagle-layer1.png" style="height:45vh">
+					</section>
+					<section>
+						<h4>Pads</h4>
+						<p>Layer 17: These inclue the annular ring for through hole pads</p>
+						<img src="https://www.autodesk.com/products/eagle/blog/wp-content/uploads/2017/08/eagle-layer17.png" style="height:45vh">
+						
+					</section>
+					<section>
+						<h4>Vias</h4>
+						<p>Layer 18: Vias are used for passing a signal between layers of a board</p>
+						<div class="container">
+						<div class="col">
+						<img src="https://www.autodesk.com/products/eagle/blog/wp-content/uploads/2017/08/eagle-layer18.png" style="width:35vw">
+						</div>
+						<div class="col">
+						<img src="https://www.allaboutcircuits.com/uploads/articles/via_intro_1.png" style="width:35vw">
+						<br>
+						<small><a href="https://www.allaboutcircuits.com/">All About Circuits</a></small>
+						</div>
+						</div>
+					</section>
+					<section>
+						<h4>Dimension</h4>
+						<p>Layer 20: Specifies the board outline</p>
+						<img src="https://www.autodesk.com/products/eagle/blog/wp-content/uploads/2017/08/eagle-layer20.png" style="height:45vh">
+					</section>
+					<section>
+						<h4>Bottom</h4>
+						<p>Layer 16: Specifies the bottom copper traces</p>
+						<img src="https://www.autodesk.com/products/eagle/blog/wp-content/uploads/2017/08/eagle-layer16.png" style="height:45vh">
+					</section>
+					<section>
+						<h4>Unrouted</h4>
+						<p>Layer 19: "air wires" show routes from your schematic that have not yet been drawn on your board</p>
+						<img src="https://www.autodesk.com/products/eagle/blog/wp-content/uploads/2017/08/eagle-layer19.png" style="height:45vh">
+					</section>
+				</section>
+				<section>
+					<h4>Board Design Tips</h4>
+					<div class="container">
+						<div class="col">
+							<ul>
+								<li>Leave enough spacing for assembly</li>
+								<li>Orient parts in the same direction</li>
+								<li>No 90º bends in routes</li>
+								<li>Ground planes are your friend</li>
+								<li>Perpendicular traces across layers</li>
+							</ul>
+						</div>
+					<div class="col">
+						<img src="https://store-cdn.arduino.cc/usa/catalog/product/cache/1/image/1000x750/f8876a31b63532bbba4e781c30024a0a/a/0/a000066_front_8.jpg" style="height:30vh">
+						<img src="https://store-cdn.arduino.cc/usa/catalog/product/cache/1/image/1000x750/f8876a31b63532bbba4e781c30024a0a/a/0/a000066_back_2_2.jpg" style="height:30vh">
+						<br>
+						<small><a href="https://store.arduino.cc/">Arduino</a></small>
+					</div>
+					</div>
+				</section>
+				<section data-background-iframe="https://www.4pcb.com/trace-width-calculator.html" data-background-interactive>
+					<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
+						<h2>Power Considerations</h2>
+						<ul>
+							<li>Separate power and control ground as much as possible</li>
+							<li>If you need to make traces wider here is a <a href="https://www.4pcb.com/trace-width-calculator.html">calculator</a></li>
+							<li>Separate analog and digital ground/traces</li>
+						</ul>
+					</div>
+				</section>
+				<section data-markdown style="text-align: left;">
+					<script type="text/template">
+						#### Arduino+ General Procedure
+						1. Find open source hardware as a starting point  
+						&ensp; Sources: [Adafruit](https://www.adafruit.com/), [Sparkfun](https://www.sparkfun.com/), [Arduino](https://www.arduino.cc/), [Kitspace](https://kitspace.org/)
+						2. Find the parts you're adding to the board  
+						&ensp;Sources: [Digikey](https://www.digikey.com/), [Mouser](https://www.mouser.com/), [Mouser](https://www.mouser.com/)
+						3. Add the new parts to your schematic
+						4. Edit/re-route the board
+						5. Figure out where to [get it made](https://pcbshopper.com/)
+					</script>
+
+				</section>
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/zoom/zoom.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/search/search.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+
+			// Also available as an ES module, see:
+			// https://revealjs.com/initialization/
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				center: true,
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight ]
+			});
+
+		</script>
+
+	</body>
+</html>
