@@ -21,6 +21,8 @@ Assignments will be posted here on Tuesdays.
 
 [02 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-02) and [Alt-02 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Alt-Pre---Lab-2) updated 9/8/2020
 
+By popular petition, lab preps are now incorporated into the preambles of the weekly labs.
+
 
 ## Labs
 Labs will be posted here on Tuesdays.
