@@ -35,7 +35,7 @@ Labs will be posted here on Tuesdays.
 | [Lab #4](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-04) Data Logger - Sensing, recording and visualizing information| [Alt-Lab 4](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Alt-Lab-4) Bring up your Arduino+ |
 | [Lab #5](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-05) Integrated Interactive Device | [Alt-Lab 5](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Alt-Lab-5) Integrated Device with Data Logging |
 | [Lab #6](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-06) ListeningBot |   |
-| [Lab #7] VideoDoorbell |   |
+| [Lab #7](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-07) VideoDoorbell |   |
 
 ## Student Submissions:
 
