@@ -54,7 +54,7 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 4. [Omer](https://github.com/oi38/Interactive-Lab-Hub)		
 5. [Russell Bingham](https://github.com/rbingham97/Interactive-Lab-Hub)
 6. [Darren Midkiff](https://github.com/dcmid/Lab1)					
-7. [Eddie Rodriguez](https://github.com/ThisGuyEddie/Developing-and-Designing-Interactive-Devices/tree/2020Fall/Lab1)		
+7. [Eddie Rodriguez](https://github.com/ThisGuyEddie/Interactive-Lab-Hub)		
 8. [Henry Wu](https://github.com/henryw30/Interactive-Lab-Hub)
 9. [Everett Key](https://github.com/EverettKey/Interactive-Lab-Hub)																							
 
