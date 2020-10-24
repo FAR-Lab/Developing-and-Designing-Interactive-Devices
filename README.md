@@ -50,7 +50,7 @@ Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 '1. [Your name netid](link to your cloned repo on Github)'
 1. [Samy Abisaleh sma293](https://github.com/SamyAbisaleh/Interactive-Lab-Hub)
 2. [Elijah Roussos](https://github.com/rbingham97/Interactive-Lab-Hub)
-3. [Kunlong Jia](https://github.com/Kunlong1994/IDD_20Fall-Lab1)
+3. [Kunlong Jia](https://github.com/Kunlong1994/Interactive-Lab-Hub)
 4. [Omer](https://github.com/oi38/Interactive-Lab-Hub)		
 5. [Russell Bingham](https://github.com/rbingham97/Interactive-Lab-Hub)
 6. [Darren Midkiff](https://github.com/dcmid/Lab1)					
