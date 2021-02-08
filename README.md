@@ -1,77 +1,44 @@
 # Interactive-Device-Design
-The main repository for a class given by Wendy Ju in the Fall term of 2020 at Cornell Tech.
+The main repository for a class given by Wendy Ju in the Spring term of 2021 at Cornell Tech.
 
 ## Syllabus
-[Syllabus](https://canvas.cornell.edu/courses/20078/assignments/syllabus) Updated September 1, 2020
+[Syllabus](https://canvas.cornell.edu/courses/27923/assignments/syllabus) Updated February 8, 2021
 
 ## Class Discussion
-Class discussion will occur on the [Cornell Tech Slack](cornelltech.slack.com), in the channel #interactivedevicedesign-fall2020.
-
-## Final Project
-Details, schedule for the final project are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Final-Project)
+Class discussion will occur on the [Cornell Tech Slack](cornelltech.slack.com), in the channel #idd-spring21
 
 ## Lectures
 Lecture slides will be posted on Canvas.
 
 
-## Lab Prep 
-Assignments will be posted here on Tuesdays.
-
-[01 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-01) and [Alt-01 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Alt-Pre---Lab-1) updated 9/1/2020
-
-[02 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/preLab-02) and [Alt-02 Prep](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Alt-Pre---Lab-2) updated 9/8/2020
-
-By popular petition, lab preps are now incorporated into the preambles of the weekly labs.
-
-
 ## Labs
-Labs will be posted here on Tuesdays.
+Labs will be posted here on Mondays.
 
-| Lab  | Alt-Lab |
-| ------------- | ------------- |
-| [Lab #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-01) Arduino! Getting started with electronics and Arduino prototyping.  | [Alt-Lab #1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Alt-Lab-1.-Arduino-Deep-Dive) Arduino Deep-dive|
-| [Lab #2](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-02) Digital Timer - Incorporating light, sound and character displays  |  [Alt-Lab #2](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Alt-Lab-2.-DIY-Arduino) DIY Arduino|
-| [Lab #3](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-03) Prototyping with paper |  |
-| [Lab #4](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-04) Data Logger - Sensing, recording and visualizing information| [Alt-Lab 4](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Alt-Lab-4) Bring up your Arduino+ |
-| [Lab #5](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-05) Integrated Interactive Device | [Alt-Lab 5](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Alt-Lab-5) Integrated Device with Data Logging |
-| [Lab #6](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-06) ListeningBot |   |
-| [Lab #7](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-07) VideoDoorbell |   |
+Lab #1 Staging Interaction
+Lab #2 Interactive Prototyping
+Lab #3 Refining Interaction with Wizards
+Lab #4 Chatterboxes
+Lab #5 Observant Systems
+Lab #6 Little Interactions Everywhere
 
 ## Student Submissions:
 
-Fork  [the Interactive Lab Hub repository](https://github.com/FAR-Lab/Interactive-Lab-Hub) for your own version of the class Hub and then put a link for your Hub to the list below. Detailed instructions for creating your hub and updating your labs are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2020Fall/readings/Submitting%20Labs.md).
+Fork  [the Interactive Lab Page repository](https://github.com/FAR-Lab/Interactive-Lab-Hub), and then put a link for your Lab Hub to the list below. Detailed instructions for creating your lab hub and updating your labs are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2020Fall/readings/Submitting%20Labs.md).
 
-When submitting your assignments, you will update your assignments on your class hub. The teaching team will be review the assignments sometime after the due date. Late assignments (e.g. your assignment is missing/incomplete at our grading time, which is after the due date) will be penalized by one letter grade per day late.
+When submitting your assignments, you will update your assignments on your class lab hub. The teaching team will be review the assignments sometime after the due date. Late assignments (e.g. your assignment is missing/incomplete at our grading time, which is after the due date) will be penalized by one letter grade per day late.
 
 
 
 Example:  [Leif Reinert lcr77](https://github.com/lcr77/Interactive-Lab-Hub)
 
 '1. [Your name netid](link to your cloned repo on Github)'
-1. [Samy Abisaleh sma293](https://github.com/SamyAbisaleh/Interactive-Lab-Hub)
-2. [Elijah Roussos](https://github.com/elijah-rou/Interactive-Lab-Hub)
-3. [Kunlong Jia](https://github.com/Kunlong1994/Interactive-Lab-Hub)
-4. [Omer](https://github.com/oi38/Interactive-Lab-Hub)		
-5. [Russell Bingham](https://github.com/rbingham97/Interactive-Lab-Hub)
-6. [Darren Midkiff](https://github.com/dcmid/Interactive-Lab-Hub)					
-7. [Eddie Rodriguez](https://github.com/ThisGuyEddie/Interactive-Lab-Hub)		
-8. [Henry Wu](https://github.com/henryw30/Interactive-Lab-Hub)
-9. [Everett Key](https://github.com/EverettKey/Interactive-Lab-Hub)																							
+																				
 
 
 ## Office Hours 
 
-###### Wendy
-Mondays 1-2pm in the class Zoom
+The main time to talk to the teaching team about your labs or projects are during the Wednesday labs. 
 
-Message on Slack
+Outside of that time, the teaching team is generally available on Slack, and usually respond within hours during their working day, and by the next working day otherwise. 
 
-
-###### Paridhi
-Friday 7 - 9pm
-
-###### Ilan
-Available via Slack
-
-###### DavidBot
-Available via Slack
+We will set up office hours if more structured support appears to be needed.
