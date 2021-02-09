@@ -28,7 +28,7 @@ Lab #6 Little Interactions Everywhere
 
 ## Student Submissions:
 
-Fork  [the Interactive Lab Page repository](https://github.com/FAR-Lab/Interactive-Lab-Hub), and then put a link for your Lab Hub to the list below. Detailed instructions for creating your lab hub and updating your labs are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2020Fall/readings/Submitting%20Labs.md).
+Fork  [the Interactive Lab Page repository](https://github.com/FAR-Lab/Interactive-Lab-Hub), and then put a link for your Lab Hub to the list below. Detailed instructions for creating your lab hub and updating your labs are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2021Spring/readings/Submitting%20Labs.md).
 
 When submitting your assignments, you will update your assignments on your class lab hub. The teaching team will be review the assignments sometime after the due date. Late assignments (e.g. your assignment is missing/incomplete at our grading time, which is after the due date) will be penalized by one letter grade per day late.
 
