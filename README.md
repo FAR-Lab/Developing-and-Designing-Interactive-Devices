@@ -15,10 +15,15 @@ Lecture slides will be posted on Canvas.
 Labs will be posted here on Mondays.
 
 Lab #1 Staging Interaction
+
 Lab #2 Interactive Prototyping
+
 Lab #3 Refining Interaction with Wizards
+
 Lab #4 Chatterboxes
+
 Lab #5 Observant Systems
+
 Lab #6 Little Interactions Everywhere
 
 ## Student Submissions:
