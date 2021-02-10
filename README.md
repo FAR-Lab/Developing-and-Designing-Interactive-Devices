@@ -38,7 +38,7 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 
 '1. [Your name netid](link to your cloned repo on Github)'
 
-2. [Shivani Doshi sgd73](https://github.com/shivanidoshi26/Interactive-Lab-Hub/tree/Spring2021/Lab%201)
+2. [Shivani Doshi sgd73](https://github.com/shivanidoshi26/Interactive-Lab-Hub/)
 																				
 
 3. [Snigdha Singhania ss4224](https://github.com/singhaniasnigdha/Interactive-Lab-Hub)
