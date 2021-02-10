@@ -36,11 +36,14 @@ When submitting your assignments, you will update your assignments on your class
 
 Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 
+
 '1. [Your name netid](link to your cloned repo on Github)'
 2. [snlee159] Sam Lee https://github.com/snlee159/Interactive-Lab-Hub
 3. [Anam Tahir - at884] https://github.com/anam884/Interactive-Lab-Hub
-																				
-
+4. [Jamie Jay hg457](https://github.com/Jamie-Jay/Interactive-Lab-Hub)
+5. [Sam Lee snlee159](https://github.com/snlee159/Interactive-Lab-Hub)
+6. [Irene Font Peradejordi - if76](https://github.com/IreneFP/Interactive-Lab-Hub)
+																		
 
 ## Office Hours 
 
