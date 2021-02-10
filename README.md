@@ -36,7 +36,7 @@ When submitting your assignments, you will update your assignments on your class
 
 Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 
-1. [hg457](https://github.com/Jamie-Jay/Interactive-Lab-Hub)
+1. [Jamie Jay hg457](https://github.com/Jamie-Jay/Interactive-Lab-Hub)
 
 2. [Sam Lee snlee159](https://github.com/snlee159/Interactive-Lab-Hub)
 
