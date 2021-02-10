@@ -44,7 +44,7 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 3. [Snigdha Singhania ss4224](https://github.com/singhaniasnigdha/Interactive-Lab-Hub)
 
 
-3. [Anam Tahir - at884] https://github.com/anam884/Interactive-Lab-Hub
+3. [Anam Tahir - at884](https://github.com/anam884/Interactive-Lab-Hub)
 
 4. [Jamie Jay hg457](https://github.com/Jamie-Jay/Interactive-Lab-Hub)
 
