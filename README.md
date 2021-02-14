@@ -56,6 +56,9 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 * [Yuanhao Zhu yz2696](https://github.com/YuanhaoZhu/Interactive-Lab-Hub)
 * [Ahaan Parekh ap2397](https://github.com/ahaanparekh27/Interactive-Lab-Hub)
 * [Ritika Poddar rp477](https://github.com/Rpoddar1953/Interactive-Lab-Hub)
+* [Ross Kleinrock rmk328](https://github.com/rkleinro-CT/Interactive-Lab-Hub/)
+* [Jeff Lu ml2684](https://github.com/r06921039/Interactive-Lab-Hub)
+* [Yanjun Zhou yz2732](https://github.com/Kingfisherzh/Yanjun.Z-s-Lab-Hub)
 
 ## Office Hours 
 
