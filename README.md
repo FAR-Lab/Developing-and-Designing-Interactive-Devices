@@ -71,15 +71,13 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 * [Zhonghao Zhan zz656](https://github.com/RupertZ/Interactive-Lab-Hub)
 * [Jingjun Wang jw2668](https://github.com/helensz98/Interactive-Lab-Hub)
 * [Chelsea Luo cl773](https://github.com/chelsealuo/Interactive-Lab-Hub)
+* [Jianang Wang jw2594](https://github.com/JamesW121/Interactive-Lab-Hub)
 * [Brandt Beckerman bnb44](https://github.com/bnbeck/Interactive-Lab-Hub)
 * [Sujith Naapa Ramesh sn438](https://github.com/sujithnr/Interactive-Lab-Hub)
 * [Jeanne Li xl863](https://github.com/Jeannelialbedo/Interactive-Lab-Hub)
 * [Caitlin Stanton cs968](https://github.com/caitlinstanton/Interactive-Lab-Hub)
 * [Kae-Jer Cho kc2225](https://github.com/moonorblue/Interactive-Lab-Hub)
 * [Jiayun Liu jl3935](https://github.com/iamyuchy/Interactive-Lab-Hub)
-
-
-
 
 ## Office Hours 
 
