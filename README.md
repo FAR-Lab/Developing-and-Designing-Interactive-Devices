@@ -67,7 +67,7 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 * [Eric Chen yc2645](https://github.com/cyh05040/Interactive-Lab-Hub)
 * [Quinn Wu yw2325](https://github.com/quinn997/Interactive-Lab-Hub)
 * [Ting-Yu Lin tl799](https://github.com/aalty/Interactive-Lab-Hub)
-
+* [Vince Bartle vb344](https://github.com/vbartle/Interactive-Lab-Hub)
 
 
 ## Office Hours 
