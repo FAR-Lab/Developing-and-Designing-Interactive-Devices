@@ -89,6 +89,8 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 * [Jeremy Shaffer jms995](https://github.com/jshaffer47/Interactive-Lab-Hub)
 * [Panda Xu px48](https://github.com/30PandaX/Interactive-Lab-Hub)
 * [Min Tae Lee ml2683](https://github.com/mintae0424/Interactive-Lab-Hub)
+* [Jacob Rauch jer322](https://github.com/jrauch97/Interactive-Lab-Hub)
+* [Andrew Tsai aht53](https://github.com/andrewhtsai/Interactive-Lab-Hub)
 ## Office Hours 
 
 The main time to talk to the teaching team about your labs or projects are during the Wednesday labs. 
