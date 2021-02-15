@@ -36,22 +36,49 @@ When submitting your assignments, you will update your assignments on your class
 
 Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 
-'1. [Your name netid](link to your cloned repo on Github)'
+* [Your name netid](link to your cloned repo on Github)'
+* [Shivani Doshi sgd73](https://github.com/shivanidoshi26/Interactive-Lab-Hub/)
+* [Snigdha Singhania ss4224](https://github.com/singhaniasnigdha/Interactive-Lab-Hub)
+* [Anam Tahir at884](https://github.com/anam884/Interactive-Lab-Hub)
+* [Jamie Jay hg457](https://github.com/Jamie-Jay/Interactive-Lab-Hub)
+* [Sam Lee snlee159](https://github.com/snlee159/Interactive-Lab-Hub)
+* [Irene Font Peradejordi if76](https://github.com/IreneFP/Interactive-Lab-Hub)
+* [Beibei Lu bl643](https://github.com/beibeilu/Interactive-Lab-Hub)
+* [Andrew Liu jl3983](https://github.com/andrewljc0801/Interactive-Lab-Hub)
+* [Mehma Bhasin mkb229](https://github.com/mkbhasin/Interactive-Lab-Hub)
+* [Panda Xu px48](https://github.com/30PandaX/Interactive-Lab-Hub)
+* [Justin Liu jl4275](https://github.com/juicetinliu/Interactive-Lab-Hub)
+* [Grace Tan gnt4](https://github.com/greatcan11/Interactive-Lab-Hub)
+* [Erin Gong yg545](https://github.com/ering0427/Interactive-Lab-Hub)
+* [Priya Kattappurath psk92](https://github.com/priyakatt/Interactive-Lab-Hub)
+* [Heidi Minghao He mh2484](https://github.com/HeidiHe/Interactive-Lab-Hub)
+* [Jingsong Chen jc3497](https://github.com/Jingsong-Chen/Interactive-Lab-Hub)
+* [Yuanhao Zhu yz2696](https://github.com/YuanhaoZhu/Interactive-Lab-Hub)
+* [Ahaan Parekh ap2397](https://github.com/ahaanparekh27/Interactive-Lab-Hub)
+* [Ritika Poddar rp477](https://github.com/Rpoddar1953/Interactive-Lab-Hub)
+* [Ross Kleinrock rmk328](https://github.com/rkleinro-CT/Interactive-Lab-Hub/)
+* [Jeff Lu ml2684](https://github.com/r06921039/Interactive-Lab-Hub)
+* [Yanjun Zhou yz2732](https://github.com/Kingfisherzh/Yanjun.Z-s-Lab-Hub)
+* [Jiadong Lou jl3937](https://github.com/jiadonglou/Interactive-Lab-Hub)
+* [Renzhi Hu rh662](https://github.com/renzhihu98/Interactive-Lab-Hub)
+* [Sachi Angle sva22](https://github.com/sach211/Interactive-Lab-Hub)
+* [Cheng-Wei Hu ch956](https://github.com/HcwXd/Interactive-Lab-Hub)
+* [Eric Chen yc2645](https://github.com/cyh05040/Interactive-Lab-Hub)
+* [Quinn Wu yw2325](https://github.com/quinn997/Interactive-Lab-Hub)
+* [Ting-Yu Lin tl799](https://github.com/aalty/Interactive-Lab-Hub)
+* [Vince Bartle vb344](https://github.com/vbartle/Interactive-Lab-Hub)
+* [Wenqing Tang wt292](https://github.com/FadingWinds/Interactive-Lab-Hub)
+* [Zhonghao Zhan zz656](https://github.com/RupertZ/Interactive-Lab-Hub)
+* [Jingjun Wang jw2668](https://github.com/helensz98/Interactive-Lab-Hub)
+* [Chelsea Luo cl773](https://github.com/chelsealuo/Interactive-Lab-Hub)
+* [Brandt Beckerman bnb44](https://github.com/bnbeck/Interactive-Lab-Hub)
+* [Sujith Naapa Ramesh sn438](https://github.com/sujithnr/Interactive-Lab-Hub)
+* [Jeanne Li xl863](https://github.com/Jeannelialbedo/Interactive-Lab-Hub)
+* [Caitlin Stanton cs968](https://github.com/caitlinstanton/Interactive-Lab-Hub)
+* [Kae-Jer Cho kc2225](https://github.com/moonorblue/Interactive-Lab-Hub)
+* [Jiayun Liu jl3935](https://github.com/iamyuchy/Interactive-Lab-Hub)
 
-2. [Shivani Doshi sgd73](https://github.com/shivanidoshi26/Interactive-Lab-Hub/)
-																				
 
-3. [Snigdha Singhania ss4224](https://github.com/singhaniasnigdha/Interactive-Lab-Hub)
-
-
-3. [Anam Tahir - at884](https://github.com/anam884/Interactive-Lab-Hub)
-
-4. [Jamie Jay hg457](https://github.com/Jamie-Jay/Interactive-Lab-Hub)
-
-5. [Sam Lee snlee159](https://github.com/snlee159/Interactive-Lab-Hub)
-
-6. [Irene Font Peradejordi - if76](https://github.com/IreneFP/Interactive-Lab-Hub)
-																		
 
 
 ## Office Hours 
