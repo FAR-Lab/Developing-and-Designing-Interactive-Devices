@@ -36,8 +36,9 @@ When submitting your assignments, you will update your assignments on your class
 
 Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 
+
 * [Your name netid](link to your cloned repo on Github)'
-* [Shivani Doshi sgd73](https://github.com/shivanidoshi26/Interactive-Lab-Hub/tree/Spring2021/Lab%201)
+* [Shivani Doshi sgd73](https://github.com/shivanidoshi26/Interactive-Lab-Hub/)
 * [Snigdha Singhania ss4224](https://github.com/singhaniasnigdha/Interactive-Lab-Hub)
 * [Anam Tahir at884](https://github.com/anam884/Interactive-Lab-Hub)
 * [Jamie Jay hg457](https://github.com/Jamie-Jay/Interactive-Lab-Hub)
@@ -62,6 +63,12 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 * [Jiadong Lou jl3937](https://github.com/jiadonglou/Interactive-Lab-Hub)
 * [Renzhi Hu rh662](https://github.com/renzhihu98/Interactive-Lab-Hub)
 * [Sachi Angle sva22](https://github.com/sach211/Interactive-Lab-Hub)
+* [Cheng-Wei Hu ch956](https://github.com/HcwXd/Interactive-Lab-Hub)
+* [Eric Chen yc2645](https://github.com/cyh05040/Interactive-Lab-Hub)
+* [Quinn Wu yw2325](https://github.com/quinn997/Interactive-Lab-Hub)
+* [Ting-Yu Lin tl799](https://github.com/aalty/Interactive-Lab-Hub)
+
+
 
 ## Office Hours 
 
