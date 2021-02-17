@@ -37,7 +37,8 @@ When submitting your assignments, you will update your assignments on your class
 Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 
 
-* [Your name netid](link to your cloned repo on Github)'*	[Niki	Agrawal	aa653](https://github.com/nagrawal44/Interactive-Lab-Hub)
+* [Your name netid](link to your cloned repo on Github)
+* [Niki	Agrawal	aa653](https://github.com/nagrawal44/Interactive-Lab-Hub)
 *	[Sachi	Angle	sva22](https://github.com/sach211/Interactive-Lab-Hub)
 *	[Vince	Bartle	vb344](https://github.com/vbartle/Interactive-Lab-Hub)
 *	[Brandt	Beckerman	bnb44](https://github.com/bnbeck/Interactive-Lab-Hub)
