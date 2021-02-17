@@ -97,6 +97,8 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 * [Nicole Zhang yz2778](https://github.com/nicole-zy/Interactive-Lab-Hub)
 * [Rui Maki rm852](https://github.com/ruimaki/Interactive-Lab-Hub)
 * [Antonio Mojena am3238](https://github.com/amojena/Interactive-Lab-Hub)
+* [Hortense Gimonet hg332](https://github.com/hgimonet/sp2021_IDD_Interactive-Lab-Hub)
+
 
 ## Office Hours 
 
