@@ -39,11 +39,11 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 
 * [Your name netid](link to your cloned repo on Github)
 *	[Niki	Agrawal	aa653](https://github.com/nagrawal44/Interactive-Lab-Hub)	
-*	[Sachi	Angle	sva22](https://github.com/sach211/Interactive-Lab-Hub)	
+<!---*	[Sachi	Angle	sva22](https://github.com/sach211/Interactive-Lab-Hub)	--->
 *	[Vince	Bartle	vb344](https://github.com/vbartle/Interactive-Lab-Hub)	
 *	[Brandt	Beckerman	bnb44](https://github.com/bnbeck/Interactive-Lab-Hub)	
-*	[Mehma	Bhasin	mkb229](https://github.com/mkbhasin/Interactive-Lab-Hub)	
-*	[Jingsong	Chen	jc3497](https://github.com/Jingsong-Chen/Interactive-Lab-Hub)	
+<!--- *	[Mehma	Bhasin	mkb229](https://github.com/mkbhasin/Interactive-Lab-Hub)	--->
+<!--- *	[Jingsong	Chen	jc3497](https://github.com/Jingsong-Chen/Interactive-Lab-Hub)	--->
 *	[Kae-Jer	Cho	kc2225](https://github.com/moonorblue/Interactive-Lab-Hub)	
 *	[Shivani	Doshi	sgd73](https://github.com/shivanidoshi26/Interactive-Lab-Hub/)	
 *	[Songyu	Du	sd933](https://github.com/sonipapa/Interactive-Lab-Hub)	
@@ -54,8 +54,8 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 *	[Heidi Minghao	He	mh2484](https://github.com/HeidiHe/Interactive-Lab-Hub)	
 *	[Cheng-Wei	Hu	ch956](https://github.com/HcwXd/Interactive-Lab-Hub)	
 *	[Renzhi	Hu	rh662](https://github.com/renzhihu98/Interactive-Lab-Hub)	
-*	[Jamie	Jay	hg457](https://github.com/Jamie-Jay/Interactive-Lab-Hub)	
-*	[Priya	Kattappurath	psk92](https://github.com/priyakatt/Interactive-Lab-Hub)	
+<!---*	[Jamie	Jay	hg457](https://github.com/Jamie-Jay/Interactive-Lab-Hub)	--->
+<!--- *	[Priya	Kattappurath	psk92](https://github.com/priyakatt/Interactive-Lab-Hub)	--->
 *	[Ross	Kleinrock	rmk328](https://github.com/rkleinro-CT/Interactive-Lab-Hub/)	
 *	[Min Tae	Lee	ml2683](https://github.com/mintae0424/Interactive-Lab-Hub)	
 *	[Sam	Lee	snlee159](https://github.com/snlee159/Interactive-Lab-Hub)	
@@ -80,7 +80,7 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 *	[Jeremy	Shaffer	jms995](https://github.com/jshaffer47/Interactive-Lab-Hub)	
 *	[Snigdha	Singhania	ss4224](https://github.com/singhaniasnigdha/Interactive-Lab-Hub)	
 *	[Luca	Spinazzola	lms452](https://github.com/luca992/Interactive-Lab-Hub)	
-*	[Caitlin	Stanton	cs968](https://github.com/caitlinstanton/Interactive-Lab-Hub)	
+<!---*	[Caitlin	Stanton	cs968](https://github.com/caitlinstanton/Interactive-Lab-Hub)	--->
 *	[Yimeng	Sun	ys992](https://github.com/ysunaw/Interactive-Lab-Hub)	
 *	[Anam	Tahir	at884](https://github.com/anam884/Interactive-Lab-Hub)	
 *	[Grace	Tan	gnt4](https://github.com/greatcan11/Interactive-Lab-Hub)	
