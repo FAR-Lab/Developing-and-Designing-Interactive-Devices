@@ -16,7 +16,8 @@ Labs will be posted here on Mondays.
 
 [Lab #1 Staging Interaction](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Spring2021/Lab%201/README.md)
 
-[Lab #2 Interactive Prototyping](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Spring2021/Lab%202/README.md)
+[Lab #2 Interactive Prototyping](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Spring2021/Lab%202/README.md) 
+(for students who cannot get QWIIC parts but can get Arduino, please do last term's Labs 1 & 2.)
 
 Lab #3 Refining Interaction with Wizards
 
