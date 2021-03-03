@@ -95,7 +95,8 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 *	[Nicole	Zhang	yz2778](https://github.com/nicole-zy/Interactive-Lab-Hub)	
 *	[William	Zhang	wz425](https://github.com/williamzhang012998/Interactive-Lab-Hub)	
 *	[Yanjun	Zhou	yz2732](https://github.com/Kingfisherzh/Yanjun-s-Lab-Hub)	
-*	[Yuanhao	Zhu	yz2696](https://github.com/YuanhaoZhu/Interactive-Lab-Hub)	
+*	[Yuanhao	Zhu	yz2696](https://github.com/YuanhaoZhu/Interactive-Lab-Hub)
+*	[Mehma Bhasin mkb229](https://github.com/mkbhasin/Interactive-Lab-Hub)
 
 ## Office Hours 
 
