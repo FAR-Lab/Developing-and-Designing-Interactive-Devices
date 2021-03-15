@@ -43,7 +43,7 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 <!---*	[Sachi	Angle	sva22](https://github.com/sach211/Interactive-Lab-Hub)	--->
 *	[Vince	Bartle	vb344](https://github.com/vbartle/Interactive-Lab-Hub)	
 *	[Brandt	Beckerman	bnb44](https://github.com/bnbeck/Interactive-Lab-Hub)	
-<!--- *	[Mehma	Bhasin	mkb229](https://github.com/mkbhasin/Interactive-Lab-Hub)	--->
+*	[Mehma Bhasin mkb229](https://github.com/mkbhasin/Interactive-Lab-Hub)
 <!--- *	[Jingsong	Chen	jc3497](https://github.com/Jingsong-Chen/Interactive-Lab-Hub)	--->
 *	[Yen-Hao Chen yc2645](https://github.com/cyh05040/Interactive-Lab-Hub)
 *	[Kae-Jer	Cho	kc2225](https://github.com/moonorblue/Interactive-Lab-Hub)	
@@ -97,7 +97,7 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 *	[William	Zhang	wz425](https://github.com/williamzhang012998/Interactive-Lab-Hub)	
 *	[Yanjun	Zhou	yz2732](https://github.com/Kingfisherzh/Yanjun-s-Lab-Hub)	
 *	[Yuanhao	Zhu	yz2696](https://github.com/YuanhaoZhu/Interactive-Lab-Hub)
-*	[Mehma Bhasin mkb229](https://github.com/mkbhasin/Interactive-Lab-Hub)
+
 
 
 ## Office Hours 
