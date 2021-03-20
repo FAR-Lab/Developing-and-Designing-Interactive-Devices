@@ -19,7 +19,7 @@ Labs will be posted here on Mondays.
 [Lab #2 Interactive Prototyping](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Spring2021/Lab%202/README.md) 
 (for students who cannot get QWIIC parts but can get Arduino, please do last term's [Labs 1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-01) & [Lab 2](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-02).)
 
-Lab #3 Refining Interaction with Wizards
+[Lab #3 Refining Interaction with Wizards](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Spring2021/Lab%203/README.md)
 
 Lab #4 Chatterboxes
 
