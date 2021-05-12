@@ -27,7 +27,59 @@ Labs will be posted here on Mondays.
 
 [Lab #6 Little Interactions Everywhere](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Spring2021/Lab%206/README.md)
 
-Final Project
+## Final Project
+
+[Deal or No Deal](https://drive.google.com/file/d/1XQzpp1tGf6e6ee2sLIo4SGoikChCPLPD/view)
+
+[Dance Dance Revolution](https://drive.google.com/file/d/16Im6LzqkTqIcfEQMOxO5LTp1bfeqlAMs/view)
+
+[Bella's Security Camera](https://www.youtube.com/watch?v=0V6QAqEnvfo)
+
+[Little Dipper](https://drive.google.com/file/d/1RZlSrD-6ynQ_WNaj6Y96DU8G5RMVBl1p/view)
+
+[RemoteBot 3000](https://drive.google.com/file/d/1v7SEqaGoAuLPQyMfRheSYNiHXUxvgZcx/view)
+
+[PitBot](https://drive.google.com/file/d/11IHh6lJ0fhtfrj9t7NQdD86RodjWKTtp/view)
+
+[TramWatch](https://drive.google.com/file/d/1XZd2brHdCOpeC6yaoLYjxkD_bhRytbc3/view)
+
+[Carving](https://drive.google.com/file/d/1h3ePDPEj6DfpaxpS3JtX8lq7xh7sKwb6/view)
+
+[Connect 4](https://www.youtube.com/watch?v=OCgLxLWi-co)
+
+[Daily Check Machien](https://www.youtube.com/watch?v=wWpC-DhkWuY)
+
+[Deep Work Status Light](https://www.youtube.com/watch?v=h4mzEMo_POE)
+
+[Smart Mobile Planter](https://drive.google.com/file/d/1C0EGZ9G7-YVlS6hqTTNBQCc0ZQV2MifQ/view)
+
+[Simon Bot](https://drive.google.com/file/d/1F7VBFsLeX8Char6X4pz8wX5mzmJ7-G-6/view)
+
+[Home Health Aide](https://drive.google.com/file/d/19nhoX-Td7e8_7Ot75MmUqb2jkSIoIUW3/view)
+
+[AC Gesture control for car](https://www.youtube.com/watch?v=IOoE608VBzU)
+
+[Breakout](https://www.youtube.com/watch?v=ivUhyYDvSVo)
+
+[CollaBoard](https://www.youtube.com/watch?v=R66CZs_p3Es)
+
+[Tangible Crypto Safe](https://www.youtube.com/watch?v=O3sw58zzShQ)
+
+[Amidst Us](https://www.youtube.com/watch?v=jBd_7DRzVd8)
+
+[Smart Mirror for Retail Shops](https://drive.google.com/file/d/1VQ6X0gf9IwjF8L_LpPwcW_kvp8LJPwKi/view)
+
+[Flappy Bird](https://drive.google.com/file/d/1ma2-HkcZKHPzy7PB_bqO0nm2dztGvdqr/view)
+
+
+
+
+
+
+
+
+
+
 
 ## Student Submissions:
 
