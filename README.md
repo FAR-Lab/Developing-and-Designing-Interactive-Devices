@@ -135,9 +135,9 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 *	[Ritika	Poddar	rp477](https://github.com/Rpoddar1953/Interactive-Lab-Hub)	
 *	[Sal	Qadir	saq6](https://github.com/JerseyXS/Interactive-Lab-Hub)	
 *	[Jacob	Rauch	jer322](https://github.com/jrauch97/Interactive-Lab-Hub)	
-*	[Jeremy	Shaffer	jms995](https://github.com/jshaffer47/Interactive-Lab-Hub)	
+<!---**	[Jeremy	Shaffer	jms995](https://github.com/jshaffer47/Interactive-Lab-Hub)-->
 *	[Snigdha	Singhania	ss4224](https://github.com/singhaniasnigdha/Interactive-Lab-Hub)	
-*	[Luca	Spinazzola	lms452](https://github.com/luca992/Interactive-Lab-Hub)	
+<!---**	[Luca	Spinazzola	lms452](https://github.com/luca992/Interactive-Lab-Hub)	-->
 *	[Caitlin	Stanton	cs968](https://github.com/caitlinstanton/Interactive-Lab-Hub)
 *	[Yimeng	Sun	ys992](https://github.com/ysunaw/Interactive-Lab-Hub)	
 *	[Anam	Tahir	at884](https://github.com/anam884/Interactive-Lab-Hub)	
