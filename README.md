@@ -1,11 +1,11 @@
 # Interactive-Device-Design
-The main repository for a class given by Wendy Ju in the Spring term of 2021 at Cornell Tech.
+The main repository for a class given by Wendy Ju in the Fall term of 2021 at Cornell Tech.
 
 ## Syllabus
-[Syllabus](https://canvas.cornell.edu/courses/27923/assignments/syllabus) Updated February 8, 2021
+[Syllabus](https://canvas.cornell.edu/courses/33420/assignments/syllabus) 
 
 ## Class Discussion
-Class discussion will occur on the [Cornell Tech Slack](cornelltech.slack.com), in the channel #idd-spring21
+Class discussion will occur on the [Cornell Tech Slack](cornelltech.slack.com), in the channel #idd-fall21
 
 ## Lectures
 Lecture slides will be posted on Canvas.
@@ -17,7 +17,6 @@ Labs will be posted here on Mondays.
 [Lab #1 Staging Interaction](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Spring2021/Lab%201/README.md)
 
 [Lab #2 Interactive Prototyping](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Spring2021/Lab%202/README.md) 
-(for students who cannot get QWIIC parts but can get Arduino, please do last term's [Labs 1](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-01) & [Lab 2](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Lab-02).)
 
 [Lab #3 Refining Interaction with Wizards](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Spring2021/Lab%203/README.md)
 
@@ -29,49 +28,7 @@ Labs will be posted here on Mondays.
 
 ## Final Project
 
-[Deal or No Deal](https://drive.google.com/file/d/1XQzpp1tGf6e6ee2sLIo4SGoikChCPLPD/view)
-
-[Dance Dance Revolution](https://drive.google.com/file/d/16Im6LzqkTqIcfEQMOxO5LTp1bfeqlAMs/view)
-
-[Bella's Security Camera](https://www.youtube.com/watch?v=0V6QAqEnvfo)
-
-[Little Dipper](https://drive.google.com/file/d/1RZlSrD-6ynQ_WNaj6Y96DU8G5RMVBl1p/view)
-
-[RemoteBot 3000](https://drive.google.com/file/d/1v7SEqaGoAuLPQyMfRheSYNiHXUxvgZcx/view)
-
-[PitBot](https://drive.google.com/file/d/11IHh6lJ0fhtfrj9t7NQdD86RodjWKTtp/view)
-
-[TramWatch](https://drive.google.com/file/d/1XZd2brHdCOpeC6yaoLYjxkD_bhRytbc3/view)
-
-[Carving](https://drive.google.com/file/d/1h3ePDPEj6DfpaxpS3JtX8lq7xh7sKwb6/view)
-
-[Connect 4](https://www.youtube.com/watch?v=OCgLxLWi-co)
-
-[Daily Check Machien](https://www.youtube.com/watch?v=wWpC-DhkWuY)
-
-[Deep Work Status Light](https://www.youtube.com/watch?v=h4mzEMo_POE)
-
-[Smart Mobile Planter](https://drive.google.com/file/d/1C0EGZ9G7-YVlS6hqTTNBQCc0ZQV2MifQ/view)
-
-[Simon Bot](https://drive.google.com/file/d/1F7VBFsLeX8Char6X4pz8wX5mzmJ7-G-6/view)
-
-[Home Health Aide](https://drive.google.com/file/d/19nhoX-Td7e8_7Ot75MmUqb2jkSIoIUW3/view)
-
-[AC Gesture control for car](https://www.youtube.com/watch?v=IOoE608VBzU)
-
-[Breakout](https://www.youtube.com/watch?v=ivUhyYDvSVo)
-
-[CollaBoard](https://www.youtube.com/watch?v=R66CZs_p3Es)
-
-[Tangible Crypto Safe](https://www.youtube.com/watch?v=O3sw58zzShQ)
-
-[Amidst Us](https://www.youtube.com/watch?v=jBd_7DRzVd8)
-
-[Smart Mirror for Retail Shops](https://drive.google.com/file/d/1VQ6X0gf9IwjF8L_LpPwcW_kvp8LJPwKi/view)
-
-[Flappy Bird](https://drive.google.com/file/d/1ma2-HkcZKHPzy7PB_bqO0nm2dztGvdqr/view)
-
-[Walk as One](https://drive.google.com/file/d/1TlNYVYbU1G9MFd2cv2dusruymZlbddWb/view?usp=sharing)
+Link to the wiki with previous term's examples
 
 
 
@@ -95,70 +52,13 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 
 
 * [Your name netid](link to your cloned repo on Github)
-*	[Niki	Agrawal	aa653](https://github.com/nagrawal44/Interactive-Lab-Hub)	
-<!---*	[Sachi	Angle	sva22](https://github.com/sach211/Interactive-Lab-Hub)	--->
-*	[Vince	Bartle	vb344](https://github.com/vbartle/Interactive-Lab-Hub)	
-*	[Brandt	Beckerman	bnb44](https://github.com/bnbeck/Interactive-Lab-Hub)	
-*	[Mehma Bhasin mkb229](https://github.com/mkbhasin/Interactive-Lab-Hub)
-<!--- *	[Jingsong	Chen	jc3497](https://github.com/Jingsong-Chen/Interactive-Lab-Hub)	--->
-*	[Yen-Hao Chen yc2645](https://github.com/cyh05040/Interactive-Lab-Hub)
-*	[Kae-Jer	Cho	kc2225](https://github.com/moonorblue/Interactive-Lab-Hub)	
-*	[Shivani	Doshi	sgd73](https://github.com/shivanidoshi26/Interactive-Lab-Hub/)	
-*	[Songyu	Du	sd933](https://github.com/sonipapa/Interactive-Lab-Hub)	
-*	[Irene	Font Peradejordi	if76](https://github.com/IreneFP/Interactive-Lab-Hub)	
-*	[Rob	Gentul	rtg85](https://github.com/rgentul/Interactive-Lab-Hub)	
-*	[Hortense	Gimonet	hg332](https://github.com/hgimonet/sp2021_IDD_Interactive-Lab-Hub)	
-*	[Erin	Gong	yg545](https://github.com/ering0427/Interactive-Lab-Hub)	
-*	[Heidi Minghao	He	mh2484](https://github.com/HeidiHe/Interactive-Lab-Hub)	
-*	[Cheng-Wei	Hu	ch956](https://github.com/HcwXd/Interactive-Lab-Hub)	
-*	[Renzhi	Hu	rh662](https://github.com/renzhihu98/Interactive-Lab-Hub)	
-<!---*	[Jamie	Jay	hg457](https://github.com/Jamie-Jay/Interactive-Lab-Hub)	--->
- *	[Priya	Kattappurath	psk92](https://github.com/priyakatt/Interactive-Lab-Hub)	
-*	[Ross	Kleinrock	rmk328](https://github.com/rkleinro-CT/Interactive-Lab-Hub/)	
-*	[Min Tae	Lee	ml2683](https://github.com/mintae0424/Interactive-Lab-Hub)	
-*	[Sam	Lee	snlee159](https://github.com/snlee159/Interactive-Lab-Hub)	
-*	[Tae	Lee	ml2683](https://github.com/mintae0424/Interactive-Lab-Hub)	
-*	[Jeanne	Li	xl863](https://github.com/Jeannelialbedo/Interactive-Lab-Hub)	
-*	[John (Hangyu)	Lin	hl2357](https://github.com/hangyulin/Interactive-Lab-Hub)	
-*	[Ting-Yu	Lin	tl799](https://github.com/aalty/Interactive-Lab-Hub)	
-*	[Andrew	Liu	jl3983](https://github.com/andrewljc0801/Interactive-Lab-Hub)	
-*	[Jiayun	Liu	jl3935](https://github.com/iamyuchy/Interactive-Lab-Hub)	
-*	[Justin	Liu	jl4275](https://github.com/juicetinliu/Interactive-Lab-Hub)	
-*	[Jiadong	Lou	jl3937](https://github.com/jiadonglou/Interactive-Lab-Hub)	
-*	[Beibei	Lu	bl643](https://github.com/beibeilu/Interactive-Lab-Hub)	
-*	[Jeff Ming-Chun	Lu	ml2684](https://github.com/r06921039/Interactive-Lab-Hub)	
-*	[Chelsea	Luo	cl773](https://github.com/chelsealuo/Interactive-Lab-Hub)	
-*	[Rui	Maki	rm852](https://github.com/ruimaki/Interactive-Lab-Hub)	
-*	[Antonio	Mojena	am3238](https://github.com/amojena/Interactive-Lab-Hub)	
-*	[Sujith	Naapa Ramesh	sn438](https://github.com/sujithnr/Interactive-Lab-Hub)	
-*	[Ahaan	Parekh	ap2397](https://github.com/ahaanparekh27/Interactive-Lab-Hub)	
-*	[Ritika	Poddar	rp477](https://github.com/Rpoddar1953/Interactive-Lab-Hub)	
-*	[Sal	Qadir	saq6](https://github.com/JerseyXS/Interactive-Lab-Hub)	
-*	[Jacob	Rauch	jer322](https://github.com/jrauch97/Interactive-Lab-Hub)	
-<!---**	[Jeremy	Shaffer	jms995](https://github.com/jshaffer47/Interactive-Lab-Hub)-->
-*	[Snigdha	Singhania	ss4224](https://github.com/singhaniasnigdha/Interactive-Lab-Hub)	
-<!---**	[Luca	Spinazzola	lms452](https://github.com/luca992/Interactive-Lab-Hub)	-->
-*	[Caitlin	Stanton	cs968](https://github.com/caitlinstanton/Interactive-Lab-Hub)
-*	[Yimeng	Sun	ys992](https://github.com/ysunaw/Interactive-Lab-Hub)	
-*	[Anam	Tahir	at884](https://github.com/anam884/Interactive-Lab-Hub)	
-*	[Grace	Tan	gnt4](https://github.com/greatcan11/Interactive-Lab-Hub)	
-*	[Wenqing	Tang	wt292](https://github.com/FadingWinds/Interactive-Lab-Hub)	
-*	[Andrew	Tsai	aht53](https://github.com/andrewhtsai/Interactive-Lab-Hub)	
-*	[Jianang	Wang	jw2594](https://github.com/JamesW121/Interactive-Lab-Hub)	
-*	[Jingjun	Wang	jw2668](https://github.com/helensz98/Interactive-Lab-Hub)	
-*	[Quinn	Wu	yw2325](https://github.com/quinn997/Interactive-Lab-Hub)	
-*	[Panda	Xu	px48](https://github.com/30PandaX/Interactive-Lab-Hub)	
-*	[Zhonghao	Zhan	zz656](https://github.com/RupertZ/Interactive-Lab-Hub)	
-*	[Nicole	Zhang	yz2778](https://github.com/nicole-zy/Interactive-Lab-Hub)	
-*	[William	Zhang	wz425](https://github.com/williamzhang012998/Interactive-Lab-Hub)	
-*	[Yanjun	Zhou	yz2732](https://github.com/Kingfisherzh/Yanjun-s-Lab-Hub)	
-*	[Yuanhao	Zhu	yz2696](https://github.com/YuanhaoZhu/Interactive-Lab-Hub)
+
 
 
 
 ## Office Hours 
 
-The main time to talk to the teaching team about your labs or projects are during the Wednesday labs. 
+The main time to talk to the teaching team about your labs or projects are during the Thursday labs. 
 
 Outside of that time, the teaching team is generally available on Slack, and usually respond within hours during their working day, and by the next working day otherwise. 
 
