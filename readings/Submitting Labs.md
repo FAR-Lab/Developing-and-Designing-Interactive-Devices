@@ -28,7 +28,7 @@ From *your* Interactive-Lab-Hub, go to "Pull Requests"
 
 Click on "New Pull Request"
 
-![New Pull Request](newpull.png?raw=true)
+![New Pull Request](Newpull.png?raw=true)
 
 Set the base repository to be your own Hub repo, and the head repository to FAR-LAB/Interactive-Lab-Hub. (This is *not* the default)
 
