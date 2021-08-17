@@ -14,17 +14,17 @@ Lecture slides will be posted on Canvas.
 ## Labs
 Labs will be posted here on Mondays.
 
-[Lab #1 Staging Interaction](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Spring2021/Lab%201/README.md)
+[Lab #1 Staging Interaction](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2021/Lab%201/README.md)
 
-[Lab #2 Interactive Prototyping](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Spring2021/Lab%202/README.md) 
+[Lab #2 Interactive Prototyping](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2021/Lab%202/README.md) 
 
-[Lab #3 Refining Interaction with Wizards](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Spring2021/Lab%203/README.md)
+[Lab #3 Refining Interaction with Wizards](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%203/README.md)
 
-[Lab #4 Physical User Interfaces](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Spring2021/Lab%204/README.md)
+[Lab #4 Physical User Interfaces](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%204/README.md)
 
-[Lab #5 Observant Systems](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Spring2021/Lab%205/README.md)
+[Lab #5 Observant Systems](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%205/README.md)
 
-[Lab #6 Little Interactions Everywhere](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Spring2021/Lab%206/README.md)
+[Lab #6 Little Interactions Everywhere](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%206/README.md)
 
 ## Final Project
 
@@ -42,7 +42,7 @@ Link to the wiki with previous term's examples
 
 ## Student Submissions:
 
-Fork  [the Interactive Lab Page repository](https://github.com/FAR-Lab/Interactive-Lab-Hub), and then put a link for your Lab Hub to the list below. Detailed instructions for creating your lab hub and updating your labs are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2021Spring/readings/Submitting%20Labs.md).
+Fork  [the Interactive Lab Page repository](https://github.com/FAR-Lab/Interactive-Lab-Hub), and then put a link for your Lab Hub to the list below. Detailed instructions for creating your lab hub and updating your labs are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2021Fall/readings/Submitting%20Labs.md).
 
 When submitting your assignments, you will update your assignments on your class lab hub. The teaching team will be review the assignments sometime after the due date. Late assignments (e.g. your assignment is missing/incomplete at our grading time, which is after the due date) will be penalized by one letter grade per day late.
 
