@@ -25,26 +25,26 @@ For each lab, you'll need to make a pull request to get the new lab files into y
 From *your* Interactive-Lab-Hub, go to "Pull Requests"
 
 <!--![Pull Requests](pull.png?raw=true)-->
-![Pull Requests](/Instructions2021/1.PullRequests.png?raw=true)
+![Pull Requests](Instructions2021/1.PullRequests.png?raw=true)
 
 Click on "New Pull Request"
 
 <!--![New Pull Request](Newpull.png?raw=true)-->
-![New Pull Request](/Instructions2021/2.NewPullRequest.png?raw=true)
+![New Pull Request](Instructions2021/2.NewPullRequest.png?raw=true)
 
 Set the base repository to be your own Hub repo, and the head repository to FAR-LAB/Interactive-Lab-Hub. (This is *not* the default)
 
 Click on “Create pull request“. If you cannot see the setting options, click on the "compare across forks".
 
 <!--![Create Pull Request](compare_changes.png?raw=true)-->
-![Create Pull Request](/Instructions2021/3.PullRequestSetting.png?raw=true)
+![Create Pull Request](Instructions2021/3.PullRequestSetting.png?raw=true)
 
 Give description, e.g. "Bringing in Lab 2 files"
 
-![Pull Request Description](/Instructions2021/4.PullRequestDescription.png?raw=true)
+![Pull Request Description](Instructions2021/4.PullRequestDescription.png?raw=true)
 
 Click on "Merge Pull Request."
-![Merge Pull Request](/Instructions2021/5.MergePullRequest.png?raw=true)
+![Merge Pull Request](Instructions2021/5.MergePullRequest.png?raw=true)
 
 
 ### 4. To create a new file for an assignment ### 
