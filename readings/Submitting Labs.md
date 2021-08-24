@@ -3,7 +3,7 @@ Submitting labs with GitHub: a 3-minute guide
 
 This guide will walk you through creating a GitHub account, creating your "hub" repository for listing your labs, pulling the lab  and creating new a file for assignments in that homework.
 
-### To create a GitHub account ### 
+### 1. To create a GitHub account ### 
 
 If you already have a personal GitHub account, feel free to use that -- no need to create a new one for this course. If you don't have an account, create one:
 
@@ -12,13 +12,13 @@ Enter your choice of username, your school email address, and your choice of pas
 Click the big green "Sign up for GitHub" button.
 If prompted, choose the "free" plan.
 
-### To make your own class "Hub" repository ### 
+### 2. To make your own class "Hub" repository ### 
 
 Visit the [IDD Hub example repository](https://github.com/FAR-Lab/Interactive-Lab-Hub) and "fork" it into your GitHub account by clicking the "fork" link; it should look similar to this:
 
 ![Fork repository](fork.png?raw=true)
 
-### To pull lab updates ### 
+### 3. To pull lab updates ### 
 
 For each lab, you'll need to make a pull request to get the new lab files into your hub. These are usually ready on Tuesday for the following Thursday.
 
@@ -42,7 +42,7 @@ Click on "Merge Pull Request."
 
 
 
-### To create a new file for an assignment ### 
+### 4. To create a new file for an assignment ### 
 
 1.  Click the "Create new file" button on your repository page:
     
