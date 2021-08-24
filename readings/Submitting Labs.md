@@ -22,12 +22,12 @@ Visit the [IDD Hub example repository](https://github.com/FAR-Lab/Interactive-La
 
 For each lab, you'll need to make a pull request to get the new lab files into your hub. These are usually ready on Tuesday for the following Thursday.
 
-From *your* Interactive-Lab-Hub, go to "Pull Requests"
+From *your* Interactive-Lab-Hub, go to "Pull Requests".
 
 <!--![Pull Requests](pull.png?raw=true)-->
 ![Pull Requests](Instructions2021/1.PullRequests.png?raw=true)
 
-Click on "New Pull Request"
+Click on "New Pull Request".
 
 <!--![New Pull Request](Newpull.png?raw=true)-->
 ![New Pull Request](Instructions2021/2.NewPullRequest.png?raw=true)
@@ -39,7 +39,7 @@ Click on “Create pull request“. If you cannot see the setting options, click
 <!--![Create Pull Request](compare_changes.png?raw=true)-->
 ![Create Pull Request](Instructions2021/3.PullRequestSetting.png?raw=true)
 
-Give description, e.g. "Bringing in Lab 2 files"
+Give description, e.g. "Updating new lab content".
 
 ![Pull Request Description](Instructions2021/4.PullRequestDescription.png?raw=true)
 
@@ -52,27 +52,31 @@ Click on "Merge Pull Request."
 1.  Click the "Create new file" button on your repository page:
     
     <!--![New File](https://github.com/jdz32/github-guide/blob/master/img/new-file.png?raw=true)-->
+    ![New File](Instructions2021/CreateNewFile.png?raw=true)
     
     Note that you can also click the "Upload files" button instead to add images, movies, or other file times to your repository.
 
-2.  Give your new file a sensible name, like "exercise-1.js". The file extension you choose  (".js" here) should match
-    the programming language used in the file; for Javascript use ".js"; for Processing, use ".pde"; for Arduino, use ".ino".
+2.  Give your new file a sensible name, like "exercise.py". The file extension you choose  (".py" here) should match
+    the programming language used in the file; for Python script use ".py"; for Javascript use ".js"; for Processing, use ".pde"; for Arduino, use ".ino".
     
     Then, paste your code into the "Edit new file" tab.
     
     Finally, click the "Commit new file" button.
     
     <!--![New file options](https://github.com/jdz32/github-guide/blob/master/img/new-file-entry.png?raw=true)-->
+    ![New file options](Instructions2021/CreateNewFileContent.png?raw=true)
 
 3.  To edit the main repository `README.md` file, or if you later wish to 
     make changes to your code, you can do so through github as well. First,
     find the file you'd like to change, and click on the file name:
     
     <!--![File list](https://github.com/jdz32/github-guide/blob/master/img/file-list.png?raw=true)-->
+    ![File list](Instructions2021/ClickonFileName.png?raw=true)
     
     Then, click the "Edit this file" icon:
     
     <!--![Edit file](https://github.com/jdz32/github-guide/blob/master/img//edit-file.png?raw=true)-->
+    ![Edit file](Instructions2021/EditThisFile.png?raw=true)
     
     Make your changes as in step 2 above.
     
