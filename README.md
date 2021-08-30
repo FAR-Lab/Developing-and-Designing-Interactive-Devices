@@ -5,7 +5,7 @@ The main repository for a class given by Wendy Ju in the Fall term of 2021 at Co
 [Syllabus](https://canvas.cornell.edu/courses/33420/assignments/syllabus) 
 
 ## Class Discussion
-Class discussion will occur on the [Cornell Tech Slack](cornelltech.slack.com), in the channel #idd-fall21
+Class discussion will occur on the [Cornell Tech Slack](https://cornelltech.slack.com), in the channel #idd-fall21
 
 ## Lectures
 Lecture slides will be posted on Canvas.
