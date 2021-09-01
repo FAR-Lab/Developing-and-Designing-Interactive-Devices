@@ -1,5 +1,5 @@
 # Interactive-Device-Design
-The main repository for a class given by Wendy Ju in the Fall term of 2021 at Cornell Tech.
+The main repository for the IDD class given by Wendy Ju in the Fall term of 2021 at Cornell Tech.
 
 ## Syllabus
 [Syllabus](https://canvas.cornell.edu/courses/33420/assignments/syllabus) 
