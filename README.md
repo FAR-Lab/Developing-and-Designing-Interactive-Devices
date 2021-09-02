@@ -54,7 +54,7 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 * [Mahir Kothary mk942](https://github.com/mahirk/Interactive-Lab-Hub)
 * [Joe Cera jtc268](https://github.com/jtc268/Interactive-Lab-Hub)
 * [Tianyun Zou tc392](https://github.com/TianyunZ/Interactive-Lab-Hub)
-
+* [Joshua Schmidt jns223](https://github.com/jschmidtnj/Interactive-Lab-Hub)
 
 
 
