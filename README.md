@@ -16,7 +16,7 @@ Labs will be posted here on Mondays.
 
 [Lab #1 Staging Interaction](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2021/Lab%201/README.md)
 
-Lab #2 Interactive Prototyping<!--[](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2021/Lab%202/README.md)-->
+[Lab #2 Interactive Prototyping](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2021/Lab%202/README.md)
 
 Lab #3 Refining Interaction with Wizards<!--[](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%203/README.md)-->
 
