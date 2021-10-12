@@ -20,7 +20,7 @@ Labs will be posted here on Mondays.
 
 [Lab #3 Chatterboxes](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%203/README.md)
 
-Lab #4 Physical User Interfaces<!--[](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%204/README.md)-->
+[Lab #4 Physical User Interfaces](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%204/README.md)
 
 Lab #5 Observant Systems<!--[](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%205/README.md)-->
 
