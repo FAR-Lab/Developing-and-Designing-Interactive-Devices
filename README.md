@@ -14,17 +14,17 @@ Lecture slides will be posted on Canvas.
 ## Labs
 Labs will be posted here on Mondays.
 
-[Lab #1 Staging Interaction](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2021/Lab%201/README.md)
+[Lab #1 Staging Interaction](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2021/Lab%201)
 
-[Lab #2 Interactive Prototyping](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2021/Lab%202/README.md)
+[Lab #2 Interactive Prototyping](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2021/Lab%202)
 
-[Lab #3 Chatterboxes](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%203/README.md)
+[Lab #3 Chatterboxes](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%203)
 
-[Lab #4 Physical User Interfaces](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%204/README.md)
+[Lab #4 Physical User Interfaces](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%204)
 
-Lab #5 Observant Systems<!--[](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%205/README.md)-->
+Lab #5 Observant Systems<!--[](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%205)-->
 
-Lab #6 Little Interactions Everywhere<!--[](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%206/README.md)-->
+Lab #6 Little Interactions Everywhere<!--[](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%206)-->
 
 ## Final Project
 
