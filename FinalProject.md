@@ -4,7 +4,7 @@ Using the tools and techniques you learned in this class, design, prototype and 
 
 Functional check-off - November 30
  
-Final Project Presentations (In class project faire) - Decembr 7
+Final Project Presentations (In class project faire) - December 7
 
  
 
