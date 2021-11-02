@@ -28,7 +28,7 @@ Lab #6 Little Interactions Everywhere<!--[](https://github.com/FAR-Lab/Interacti
 
 ## Final Project
 
-Link to the wiki with previous term's examples
+[Final project assignment is now up.]()
 
 
 
