@@ -28,7 +28,7 @@ Lab #6 Little Interactions Everywhere<!--[](https://github.com/FAR-Lab/Interacti
 
 ## Final Project
 
-[Final project assignment is now up.]()
+[Final project assignment is now up.](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2021Fall/FinalProject.md)
 
 
 
