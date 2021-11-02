@@ -8,14 +8,14 @@ Final Project Presentations (In class project faire) - Decembr 7
 
  
 
-# Objective
+## Objective
 
 The goal of this final project is for you to have a fully functioning and well-designed interactive device of your own design.
  
-# Description
+## Description
 Your project is to design and build an interactive device to suit a specific application of your choosing. 
 
-# Deliverables
+## Deliverables
 
 1. Documentation of design process
 2. Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.)
@@ -23,11 +23,11 @@ Your project is to design and build an interactive device to suit a specific app
 4. Reflections on process (What have you learned or wish you knew at the start?)
 
 
-# Teams
+## Teams
 
 You can and are not required to work in teams. Be clear in documentation who contributed what. The total project contributions should reflect the number of people on the project.
 
-# Examples
+## Examples
 
 [Here is a list of good final projects from previous classes.](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/wiki/Previous-Final-Projects)
 This version of the class is very different, but it may be useful to see these.
