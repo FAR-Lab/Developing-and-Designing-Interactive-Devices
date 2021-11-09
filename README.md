@@ -24,7 +24,7 @@ Labs will be posted here on Mondays.
 
 [Lab #5 Observant Systems](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%205)
 
-Lab #6 Little Interactions Everywhere<!--[](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%206)-->
+[Lab #6 Little Interactions Everywhere](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%206)
 
 ## Final Project
 
