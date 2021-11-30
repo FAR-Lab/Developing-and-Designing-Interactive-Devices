@@ -17,7 +17,9 @@ Write-up and documentation due - December 13
 The goal of this final project is for you to have a fully functioning and well-designed interactive device of your own design.
  
 ## Description
-Your project is to design and build an interactive device to suit a specific application of your choosing, and test the interaction with people. 
+
+Introducing FallSafe, a wearable device to detect falls and share the information with emergency contact. Using an accelerometer, the device would be able to determine whether a person is falling by sensing motion and measuring the rate of change of the velocity. The device is also integrated with a communication system via MQTT which we explored in Lab 6. Immediately transmitting first-hand information with emergency contact would prevent 
+
 ## Deliverables
 
 1. Project plan: Big idea, timeline, parts needed, fall-back plan.
