@@ -14,7 +14,8 @@ Lecture slides will be posted on Canvas.
 ## Labs
 Labs will be posted here on Mondays.
 
-[Lab #1 Staging Interaction]<!---(https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2022/Lab%201)--->
+<!---
+[Lab #1 Staging Interaction](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2022/Lab%201)
 
 [Lab #2 Interactive Prototyping](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2022/Lab%202)
 
@@ -25,6 +26,7 @@ Labs will be posted here on Mondays.
 [Lab #5 Observant Systems](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2022/Lab%205)
 
 [Lab #6 Little Interactions Everywhere](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2022/Lab%206)
+-->
 
 ## Final Project
 
