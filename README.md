@@ -1,11 +1,11 @@
 # Interactive-Device-Design
-The main repository for the IDD class given by Wendy Ju in the Fall term of 2021 at Cornell Tech.
+The main repository for the IDD class given by Wendy Ju in the Fall term of 2022 at Cornell Tech.
 
 ## Syllabus
 [Syllabus](https://canvas.cornell.edu/courses/33420/assignments/syllabus) 
 
 ## Class Discussion
-Class discussion will occur on the [Cornell Tech Slack](https://cornelltech.slack.com), in the channel #idd-fall21
+Class discussion will occur on the [Cornell Tech Slack](https://cornelltech.slack.com), in the channel #idd-fall22
 
 ## Lectures
 Lecture slides will be posted on Canvas.
@@ -14,48 +14,30 @@ Lecture slides will be posted on Canvas.
 ## Labs
 Labs will be posted here on Mondays.
 
-[Lab #1 Staging Interaction](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2021/Lab%201)
+[Lab #1 Staging Interaction](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2022/Lab%201)
 
-[Lab #2 Interactive Prototyping](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2021/Lab%202)
+[Lab #2 Interactive Prototyping](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2022/Lab%202)
 
-[Lab #3 Chatterboxes](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%203)
+[Lab #3 Chatterboxes](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2022/Lab%203)
 
-[Lab #4 Physical User Interfaces](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%204)
+[Lab #4 Physical User Interfaces](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2022/Lab%204)
 
-[Lab #5 Observant Systems](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%205)
+[Lab #5 Observant Systems](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2022/Lab%205)
 
-[Lab #6 Little Interactions Everywhere](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2021/Lab%206)
+[Lab #6 Little Interactions Everywhere](https://github.com/FAR-Lab/Interactive-Lab-Hub/tree/Fall2022/Lab%206)
 
 ## Final Project
 
-[Final project assignment is now up.](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2021Fall/FinalProject.md)
-
-
-
-
-
-
-
-
+Final project assignment will be announced later in the term.
+%(https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2022Fall/FinalProject.md)
 
 
 
 ## Student Submissions:
 
-Fork  [the Interactive Lab Page repository](https://github.com/FAR-Lab/Interactive-Lab-Hub), and then put a link for your Lab Hub to the list below. Detailed instructions for creating your lab hub and updating your labs are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2021Fall/readings/Submitting%20Labs.md).
+Fork  [the Interactive Lab Page repository](https://github.com/FAR-Lab/Interactive-Lab-Hub); detailed instructions for creating your lab hub and updating your labs are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2022Fall/readings/Submitting%20Labs.md).
 
-When submitting your assignments, you will update your assignments on your class lab hub. The teaching team will be review the assignments sometime after the due date. Late assignments (e.g. your assignment is missing/incomplete at our grading time, which is after the due date) will be penalized by one letter grade per day late.
-
-
-
-Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
-
-
-* [Mahir Kothary mk942](https://github.com/mahirk/Interactive-Lab-Hub)
-* [Joe Cera jtc268](https://github.com/jtc268/Interactive-Lab-Hub)
-* [Tianyun Zou tc392](https://github.com/TianyunZ/Interactive-Lab-Hub)
-
-
+When submitting your assignments, you will update your assignments on your class lab hub, and post a link to your github page on Canvas. Graders will review the assignments sometime after the due date. Late assignments (e.g. your assignment is missing/incomplete at our grading time, which is after the due date) will be penalized by one letter grade per day late.
 
 
 
