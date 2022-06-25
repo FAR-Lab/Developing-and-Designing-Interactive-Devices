@@ -14,7 +14,7 @@ Lecture slides will be posted on Canvas.
 ## Labs
 Labs will be posted here on Mondays.
 
-[Lab #1 Staging Interaction](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2022/Lab%201)
+[Lab #1 Staging Interaction]<!---(https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2022/Lab%201)--->
 
 [Lab #2 Interactive Prototyping](https://github.com/FAR-Lab/Interactive-Lab-Hub/blob/Fall2022/Lab%202)
 
