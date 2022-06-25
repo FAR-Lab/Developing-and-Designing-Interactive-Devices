@@ -29,7 +29,8 @@ Labs will be posted here on Mondays.
 ## Final Project
 
 Final project assignment will be announced later in the term.
-[//]: #(https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2022Fall/FinalProject.md)
+
+<!---(https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2022Fall/FinalProject.md)--->
 
 
 
