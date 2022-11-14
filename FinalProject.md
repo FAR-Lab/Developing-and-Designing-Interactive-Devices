@@ -35,7 +35,7 @@ Your project is to design and build an interactive device to suit a specific app
 ## Change of Design
 
 It is fine to change your project goals, but please resubmit the project plan for the new design when you do that.
-
+.
 
 ## Teams
 
