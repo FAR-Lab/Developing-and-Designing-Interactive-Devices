@@ -18,13 +18,13 @@ Labs will be updated on the [Interactive Lab Hub](https://github.com/FAR-Lab/Int
 
 ## Final Project
 
-[Final Project](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2022Fall/FinalProject.md)
+[Final Project](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2023Fall/FinalProject.md)
 
 
 
 ## Student Submissions:
 
-Fork  [the Interactive Lab Page repository](https://github.com/FAR-Lab/Interactive-Lab-Hub); detailed instructions for creating your lab hub and updating your labs are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2022Fall/readings/Submitting%20Labs.md).
+Fork  [the Interactive Lab Page repository](https://github.com/FAR-Lab/Interactive-Lab-Hub); detailed instructions for creating your lab hub and updating your labs are [here](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2023Fall/readings/Submitting%20Labs.md).
 
 When submitting your assignments, you will update your assignments on your own class lab hub, and post a link to your Github page on Canvas. Graders will review the assignments after the due date. Late assignments (e.g. your assignment is missing/incomplete at our grading time, which is after the due date) will be penalized by one letter grade per day late.
 
