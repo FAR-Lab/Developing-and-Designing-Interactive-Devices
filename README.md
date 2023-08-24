@@ -34,6 +34,6 @@ When submitting your assignments, you will update your assignments on your own c
 
 The main time to talk to the teaching team about your labs or projects are during the Thursday labs. 
 
-Outside of that time, the teaching team is generally available on Slack, and usually respond within hours during their working day, and by the next working day otherwise. 
+Outside of that time, Professor Ju is generally available on Slack, and usually respond within hours during their working day, and by the next working day otherwise. 
 
-We will set up office hours if more structured support appears to be needed.
+The TAs office hours will be on Fridays.
