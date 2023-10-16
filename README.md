@@ -12,7 +12,7 @@ Lecture slides will be posted on Canvas.
 
 
 ## Labs
-Labs will be updated on the [Interactive Lab Hub](https://github.com/FAR-Lab/Interactive-Lab-Hub) on Mondays. You will need to pull lab updates each week to get the new lab code and materials.
+Labs will be updated on the [Interactive Lab Hub](https://github.com/FAR-Lab/Interactive-Lab-Hub) as announced on Slack or during the class (typically on Tuesdays). You will need to pull lab updates each week to get the new lab code and materials.
 
 
 
