@@ -8,9 +8,9 @@ Peer feedback on Project plans: November 21
 
 Functional check-off - November 28 & 30
 
-Final Project Presentations - December 5 & 7
+Final Project Presentations - December 12 & 14
 
-Write-up and documentation due - December 14
+Write-up and documentation due - December 15 
 
 ## Objective
 
